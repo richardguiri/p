@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1,Batalla: Freestyle(2022)
+acestream://59839d5ca1b6842ac5bc02e9d83b49680ec0628
+#EXTINF:-1,Hide and Seek(2021)
+acestream://917a2b0d8715e9b7206ab4da625b5dac1b6162a
+#EXTINF:-1,Cortes peligrosos(2021)
+acestream://7efaf9b7579a4afcf3446f3e2a6be296300456b1
+#EXTINF:-1,Zeros and Ones(2021)
+acestream://3a186530a00592ca3d6983816c166bf65ee0a706
+#EXTINF:-1,CODA: Los Sonidos del Silencio(2021)
+acestream://5d108a6da96649fb11fd5dc97473f5528c99f8e5
+#EXTINF:-1,¿Qué hicimos mal?(2021)
+acestream://5a7aae566aae6ed341779def31f31f2811910b9d
+#EXTINF:-1,Batman: Alma de Dragón(2021
+acestream://1d3f31d183ad418b4daad1bd5df29b052bb28336
+#EXTINF:-1,Una amistad para siempre(2021)
+acestream://4006d44b83ff1dad6c51aeb7c3b0f5ee8c187129
+#EXTINF:-1,Fat Ass Zombies(2020)
+acestream://fe3cc3b58a359335703bb1c577755d0bfc7ee903
+#EXTINF:-1,La familia Bloom(2021)
+acestream://62e58ca18e0773dac95a6f9e0eb331a891d26655
+#EXTINF:-1,Apolo 10½: Una infancia espacial(2022)
+acestream://7a75fca80d31e6f87b4ac8aa6a7903a640e709c
 #EXTINF:-1,Prisioneros de Ghostland (2021) 
 acestream://b61c5784d1071bc15e3ca23793cd14d51aa55f53 
 #EXTINF:-1,Una chica bonita como tú (2020)
@@ -397,3 +419,117 @@ acestream://efa20d35695dfc165876487f6e7d9369e9f5849b
 acestream://eb5f4b7b0a63c0df3e7119f71fb4687779af57f0
 #EXTINF:-1,The Key (2016)
 acestream://2a1e5a819515fd566dacf75c6ed2424aa1012694
+#EXTINF:-1,Worth(2021)
+acestream://2ea85cfe0715f1a159d30da0d341b94601a337fb
+#EXTINF:-1,El refugio(2021)
+acestream://c8f700828242d5e82d7b4b9ecda6f445a53e6ae2
+#EXTINF:-1,Worth(2021)
+acestream://2ea85cfe0715f1a159d30da0d341b94601a337fb
+#EXTINF:-1,El refugio(2021)
+acestream://c8f700828242d5e82d7b4b9ecda6f445a53e6ae2
+#EXTINF:-1,Lulli(2021)
+acestream://4eb4f05f47a45b98fde551437df642bc14d64a6b
+#EXTINF:-1,Stand by Me, Doraemon 2(2020)
+acestream://22ed7b08a0e5f88f74ef332d87acb3e2e2d00cad
+#EXTINF:-1,D'Artacán y los tres mosqueperros(2021)
+acestream://1db227931a0351a60f10993562060893c89bfd29
+#EXTINF:-1,En tierras peligrosas(2021)
+acestream://38c7b9079da65acc8a5fb8eabc019501f3acad7c
+#EXTINF:-1,The Bloodhound(2020)
+acestream://a6ca363d0dec02adb869a932cdbdd3f331dca533
+#EXTINF:-1,No mires arriba(2021)
+acestream://e98a859d43ea1b445d6405fb3693aa539324fa74
+#EXTINF:-1,Being the Ricardos (2021)
+acestream://e5192d6b8da2878846a7419d62d06c8072c52421
+#EXTINF:-1,A mil kilómetros de la Navidad(2021)
+acestream://bce2c93f3340fedbcc8148bc539b5cf76477b57d
+#EXTINF:-1,Yo tampoco te quiero(2021)
+acestream://a63c6403ddc1cb3ed51fe99ccb0ee47057148806
+#EXTINF:-1,Atrapada en la Navidad(2021)
+acestream://43ebe01b9cb3e67cae65ce31c381327f998e9e37
+#EXTINF:-1,Mamá o papá(2021)
+acestream://4a166913a03129f9db90baeea04d92f10c1befab
+#EXTINF:-1,Encanto(2021)
+acestream://38f5b21c69f39dcf929130ca6c5785e1b37127ae
+#EXTINF:-1,Los Mitchell contra las máquinas(2021)
+acestream://544f1b3a0de0a5fe02f65f566c8db825a3138615
+#EXTINF:-1,Butchers(2021)
+acestream://6a5ee517615d5e59fe0a6e9d321a0d7186bb40de
+#EXTINF:-1,Antlers: Criatura oscura(2021)
+acestream://92c606cc8063da1234d511153892debab43d4f6c
+#EXTINF:-1,Juguetes de terror(2021)
+acestream://6ca02f1900711b0f3be7c8ae5ccb79d48a6ab0fe
+#EXTINF:-1,Santos Criminales(2021)
+acestream://3c2cf685ee2dfac79cb3945ccafef6b0fa695e76
+#EXTINF:-1,Wild Indian(2021)
+acestream://3f0cf9498e2c7e54874b67bf5c9451c3822b906d
+#EXTINF:-1,El canto del cisne(2021)
+acestream://aaf28bd18d428b5b8614f7deea47257772064fda
+#EXTINF:-1,Fue la mano de Dios(2021)
+acestream://71c8bfcdeca8d157c4aa45f0e12a5c1bdd765c7a
+#EXTINF:-1,Al unísono(2021)
+acestream://b5118c3d0bc4156cb64369267fe87584090e9f89
+#EXTINF:-1,Separación(2021)
+acestream://7a9731cbac75c591189057cef493b2a854719a72
+#EXTINF:-1,El médico de Budapest(2020)
+acestream://519b415b0399c5e43d913a4906b34aee2ffa1cff
+#EXTINF:-1,La crónica francesa(2021)
+acestream://354cf265a66a8abd410c19cc6b45b5bdd43bb634
+#EXTINF:-1,Segunda Oportunidad(2018)
+acestream://b1c2e10f5272345f350f85b5981df2303a3af187
+#EXTINF:-1,Navidades en California: Luces de la ciudad(2021)
+acestream://3d401b2e117563382c72512fe6f9a764a6a8522f
+#EXTINF:-1,García y García(2021)
+acestream://e675d28d01fe7fc4391bf3411b83a66b5dacd21b
+#EXTINF:-1,Ron da error(2021)
+acestream://06ee79c8b3bce0549fc41046d3af64c0662221f6
+#EXTINF:-1,LOL Surprise: The Movie(2021)
+acestream://677242657d9a95bedd832d951c7928fb85a04eda
+#EXTINF:-1,¡Nos hemos extinguido!(2021)
+acestream://53394f329f692af6c4f19c145d2f169757a1a8de 
+#EXTINF:-1,¡Nos Volvemos a Casa!(2021)
+acestream://0d4e8d32d385f260533519836127a1f178679e21
+#EXTINF:-1,Con quién viajas(2021)
+acestream://be6f5b315efebb2f20f64a08497d81acee7b891e
+#EXTINF:-1,Dos(2021)
+acestream://53c48b6bd6bfca88994872941e70a8ca94f2a4c0
+#EXTINF:-1,Ida Red: el precio de la libertad(2021)
+acestream://2313ab73f81918826357df496b7f12cc9c8f0d19
+#EXTINF:-1,Imperdonable(2021)
+acestream://8abc60647ee16bf177281d45040c825e39925ac6
+#EXTINF:-1,El encuentro(2021)
+acestream://4ec2991783870c65334ee9488b3489a9cbb45d43
+#EXTINF:-1,Indestructible(2018)
+acestream://04f516f193ab2ddabd3061e6143654262d2b9bbe
+#EXTINF:-1,Sator(2019)
+acestream://49b9b4eb63b82d70ec37464dd8bc87d5251f78fc
+#EXTINF:-1,Jinetes de la justicia(2021)
+acestream://a42e4ba7a4b3e331223548cd78c67d7345adce63
+#EXTINF:-1,Un bocado exquisito(2021)
+acestream://e23fb94953a9e6f871a3007ef962b7a025f21536
+#EXTINF:-1,Cuidado con lo que deseas(2021)
+acestream://a92185c06add0dd9e39a926a3c976a1c8f1e05b2
+#EXTINF:-1,No respires 2(2021)
+acestream://843fc8a9626e1a9316b74e116f5db75fdae650fc
+#EXTINF:-1,El tubo(2021)
+acestream://8af242a007ef7a7537b297eb74420cebe4ff3838
+#EXTINF:-1,Black Site(2020)
+acestream://7fc46a8fc9bf5b9e3debc6220e66258447c347b0
+#EXTINF:-1,David y los Elfos(2021)
+acestream://6a718da578231a70ef8e57ec95cb9a6f2c488b43
+#EXTINF:-1,Cuestión de sangre(2021
+acestream://3de416ddaa3eccd94c7ad37d5e8cac1717c09d66
+#EXTINF:-1,Especie oculta(2020)
+acestream://96b1cc8073c6fd2f5f8eae9bd308fdb4b80fbc9e
+#EXTINF:-1,El último duelo(2021)
+acestream://1bbe0fff241e6dd4bf9d35e8daf95fd4b95ca990
+#EXTINF:-1,Asesinos anónimos(2019
+acestream://073b12accea217b605c4f477b95506f7100e1239
+#EXTINF:-1,Queen of Spades(2021)
+acestream://5b767fc428f5aff750a71aefea01d6e5dbc14dfa
+
+
+
+
+
+
