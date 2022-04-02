@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Batalla: Freestyle(2022)
-acestream://59839d5ca1b6842ac5bc02e9d83b49680ec0628
+acestream://59839d5ca1b6842ac5bc02e9d83b49680ec0628e
 #EXTINF:-1,Hide and Seek(2021)
 acestream://917a2b0d8715e9b7206ab4da625b5dac1b6162a
 #EXTINF:-1,Cortes peligrosos(2021)
