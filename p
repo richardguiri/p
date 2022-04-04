@@ -113,7 +113,7 @@ acestream://8686e98a64ae6236f9fddcd75123f35d20214504
 acestream://b0e73e0700ad0835eb75283e708d594f802d74d4
 #EXTINF:-1,Doce en casa (2022)
 acestream://80c2f6fafa2d54c0e630c1e60ee9e17c21ed6ed1
-#EXTINF:-1,tvg-logo="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/49056/EFCmriZ7rksxUQxOv9xjQ5qYIKy9DNGdBo0Q4pqM.webp"",Pan de limón con semillas de amapola (2021)
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODI0NmNmZTItMWE2MS00NTE5LThmODAtMTE3MjkyODY4NzI1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_UX100_CR0,0,100,100_AL_.jpg",Pan de limón con semillas de amapola (2021)
 acestream://98867c5e62e1d7ee98fd7df8b0e10c12dd48938b
 #EXTINF:-1,Joe Bell (2021)
 acestream://7586a60bda52b112612d3e5cd6dd33d75cb3d050
