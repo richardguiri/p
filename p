@@ -539,7 +539,7 @@ acestream://96b1cc8073c6fd2f5f8eae9bd308fdb4b80fbc9e
 acestream://1bbe0fff241e6dd4bf9d35e8daf95fd4b95ca990
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/05/15/09/49/4838661.jpg",Asesinos anónimos(2019
 acestream://073b12accea217b605c4f477b95506f7100e1239
-#EXTINF:-1,tvg-logo="https://www.estrenosdecine.online/wp-content/uploads/2021/12/pqueen-of-spades.jpg",Queen of Spades(2021)
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/I/71Qf2AYAZWL._SY445_.jpg",Queen of Spades(2021)
 acestream://5b767fc428f5aff750a71aefea01d6e5dbc14dfa
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/07/13/11/2832970.jpg",BAC Nord(2021)
 acestream://9f6a34c385f040f063fd8f5973fa26669306eb0c
@@ -637,7 +637,7 @@ acestream://b37829f5059f1fdc46aa74f8f5edb37e2c4b65a3
 acestream://c147e648100a93e3e91a28aa3339253a649bcd59
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/13/16/30/5386471.jpg",Por fin solo en casa(2021)
 acestream://7c7b165e1d2fad8942eb9970e38d5b2f412d3a4e
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/20/01/23/19/55/5115665.jpg",CODA(2021)
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/23/19/55/5115665.jpg",CODA(2021)
 acestream://da12622cccb1e3f26709bf2580e8b1cceaf69923
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/19/03/32/1320698.jpg",El asesinato de dos amantes(2021)
 acestream://fb0294eaaa29ef7422989085b1be2e646acdb292
@@ -862,7 +862,7 @@ acestream://99d55060c1e8cc15f0d781678ed8593db18fa172
 acestream://99c060df8291b56557730b7c7cb0ce80b9d47cea
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/bad-education-41766/src/bad-education-41766-c.jpg",Reminiscencia(2021)
 acestream://39a5cefeec710d28be7cfc802164caa7d5f76e56
-#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/the-ice-road-44059/src/the-ice-road-44059-c.jpg"Ice Road(2021)
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/the-ice-road-44059/src/the-ice-road-44059-c.jpg",Ice Road(2021)
 acestream://abfe7f6f8b58f2840f094df95609e8e1e74b4ee3
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/search-and-destroy-44306/src/search-and-destroy-44306-c.jpg",Search and Destroy(2020)
 acestream://07ce0846fe1e99c43984c6e44e54fddde13cd3ba
@@ -1214,7 +1214,7 @@ acestream://cdabe4d53df549ec4d418e985b309572b69ab38d
 acestream://730ba0bd01231cda025734d4910ca109bed40853
 #EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ab/Every_Breath_You_Take.jpeg/revision/latest?cb=20211027044306&path-prefix=es",Cada respiro que tomas(2021)                     
 acestream://7f764b4df21191261f1528644d1ff2def02856cb
-#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ab/Every_Breath_You_Take.jpeg/revision/latest?cb=20211027044306&path-prefix=es",Nivel 16(2018)                                                
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/01/16/14/02/2893087.jpg",Nivel 16(2018)                                                
 acestream://079ca90315431944a78e0c969787a19aac7b4d51
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/la-maldicion-de-lake-manor-42744/la-maldicion-de-lake-manor-42744-c.jpg",La maldición de Lake Manor(2019)            
 acestream://6ac3e0c1eea2c7ddaf31e2d9cccf7741c5fa0ee7
@@ -1424,7 +1424,7 @@ acestream://58a1f06dd8a601fa7462876e2c4de4392ddad765
 acestream://61c4b162c58427706772ced250b7fce66edf7152
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/shirley-visions-of-reality/src/shirley-visions-of-reality-c.jpg",Shirley(2020)                                                        
 acestream://676da5d02b9d600ce3ece3223486427d7b5531f1
-#EXTINF:-1,tvg-logo="tvg-logo="https://decine21.com/img/upload/obras/vidas-de-papel-43403/src/vidas-de-papel-43403-c.jpg",Vidas de papel(2021)                                                      
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/vidas-de-papel-43403/src/vidas-de-papel-43403-c.jpg",Vidas de papel(2021)                                                      
 acestream://2339f7cd194164628c675413bf63fe399f40bb97
 #EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/I/811PXZSa-qL._RI_.jpg",Uncle Peckerhead(2020)                                   
 acestream://9f03dd2f7896ec8d10a2603206ab86eee3f3ff8f
@@ -1446,7 +1446,7 @@ acestream://fb0ffb3a086c5428e7ceffa7036538f9cfcfed50
 acestream://8c1d2938c50fb0a0d9cd42f8a7ef04783e5a9e49
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/l-incroyable-histoire-du-facteur-cheval-40364/src/l-incroyable-histoire-du-facteur-cheval-40364-c.jpg",El palacio ideal(2018)                                      
 acestream://eb18b861ab73d02c51d9d2c045a7c32d0c0112d1
-#EXTINF:-1,vg-logo="https://decine21.com/img/upload/obras/en-el-lugar-equivocado-43196/src/en-el-lugar-equivocado-43196-c.jpg",En el lugar equivocado(2020)                           
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/en-el-lugar-equivocado-43196/src/en-el-lugar-equivocado-43196-c.jpg",En el lugar equivocado(2020)                           
 acestream://c29db78e55cd69a331340a8eeb73329f3e647f11
 #EXTINF:-1,tvg-logo="https://static.digit.in/OTT/v2/images/tr:w-1200/hacker-81072.jpg",Secreto de estado(2018)                                  
 acestream://de047f30a05856e68378fdf640ea2a5b77d02634
@@ -1698,7 +1698,7 @@ acestream://c85fbfbe8842d89cc4970daef400c719e979828e
 acestream://859e498346880dc63dd60ec268aabb099286129a
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/historias-lamentables-41366/src/historias-lamentables-41366-c.jpg",Historias lamentables(2020)                            
 acestream://3bb8cf73cb3668bfa1276a2c43b10e1a879d7aab
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/El_d_a_llegar-793072451-mmed.jpg",El día llegará(2019)                                              
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/I/812Rw5ZaMAL._SL1500_.jpg",El día llegará(2019)                                              
 acestream://f7377efc4345980cc8579be44988449487f4d4fb
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/I/81eAeVbN0uL._SL1500_.jpg",Echoes of Fear(2018)                                           
 acestream://c1803c10cd4c0a69040735468d1fefae57a30d9a
@@ -1840,7 +1840,7 @@ acestream://1b234db6c8c826952368442c3f23d0d271237629
 acestream://791bc476229337a467d13a7cb990dc401e252ad6
 #EXTINF:-1,tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/indie/foto/db_64673_54.jpg",Villano(2020)                                                     
 acestream://108fb735d7ec25af64ad3cc558bd43005a62cccd
-#EXTINF:-1,https://decine21.com/img/upload/obras/the-babysitter-killer-queen-42537/src/the-babysitter-killer-queen-42537-c.jpgThe Babysitter: Killer Queen(2020)                    
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/the-babysitter-killer-queen-42537/src/the-babysitter-killer-queen-42537-c.jpg",The Babysitter: Killer Queen(2020)                    
 acestream://57d2b6b7b575bce0f7c933c13b8241ba36f37b28
 #EXTINF:-1,tvg-logo="https://imgsrc.cineserie.com/2019/10/1851600.jpg?ver=1",Scare Package(2019)                                         
 acestream://703bfb7c66e70ac0cf94fa4f9ad2f16c7d5f0e48
