@@ -1,11 +1,43 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/14/18/16/2171528.jpg",Fast & Furious 9 (2021)
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/la-protegida-44444/src/la-protegida-44444-c.jpg",La protegida(2021)
+acestream://03bdc3a9c9d28c789878c41060c626a528f8c530
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/la-caja-negra-black-box-43062/src/la-caja-negra-black-box-43062-c.jpg",Black Box(2021)
+acestream://be6283c189d14fada2760adc375423d70b6bf544
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/fuel-40866/src/fuel-40866-c.jpg",Fuel(2019)
+acestream://b5d46d0939aae8586550637e749e647c3b060016
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/11/09/10/0237859.jpg",Tras la pista del asesino(2021)
+acestream://69e8281ac031abd9d04940dc3af56e908cacb424
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/una-cita-con-el-pasado-45381/src/una-cita-con-el-pasado-45381-c.jpg",Una cita con el pasado(2022)
+acestream://2d05d0298af05ed0a733b6eacce9e9d75eed4a28
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/tre-piani-43920/src/tre-piani-43920-c.jpg",Tres pisos(2021)
+acestream://6deae024734ebef2e771b2588561c6c4d276ec7e
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/the-beach-bum-37621/src/the-beach-bum-37621-c.jpg",The Beach Bum(2019)
+acestream://9c5264583f3d2bbfc76e3c8a4e2b2e6e07d6d3c5
+#EXTINF:-1,tvg-logo="https://media.filmelier.com/tit/16002/poster/en-el-mejor-momento_GOdhLtg.jpeg",Siempre en el mejor momento(2022)
+acestream://42bc4f61b6300dfba012bd99d26c2b562707dba0
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzNWY5YTItMjM5YS00ZjA2LTg1ZjQtOTdkMDNkOWU5YjNmXkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_.jpg",Karem La Posesion(2021)
+acestream://187b8673f3999e9d5bfea3239b0f6cec2a10e4bb
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/espiritu-sagrado-44280/src/espiritu-sagrado-44280-c.jpg",Espíritu sagrado(2021)
+acestream://64caf3592cf07e320b3e0aebd87e20dbddc84e46
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/el-rezador-45232/src/el-rezador-45232-c.jpg",El Rezador(2021)
+acestream://998502a763c2b48497f87fa22686dd189b1d6ac9
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/el-triangulo-del-diablo-45361/src/el-triangulo-del-diablo-45361-c.jpg",El triángulo del diablo(2021)
+acestream://2ecdbfe8f34d6ff4a78c83afe9ef0ec221459f4f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjJjMzI1ZDctMDhmMy00Nzk2LTg5ZjgtNGIyN2QyNDQwMDU5XkEyXkFqcGdeQXVyMTMyNzMxNTcw._V1_.jpg",Metal Lords(2022)
+acestream://aa8c14ba316b2831920c95afa3ec1d381dd9e76c
+#EXTINF:-1,tvg-logo="https://moviehaku.com/thumbs/films/400x590/Cabrito.jpg",Cabrito(2019)
+acestream://15db75b3c426f5e2df4f3f47a9f395f168452865
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/30-dias-mas-44635/src/30-dias-mas-44635-c.jpg",30 días(2020)
+acestream://702e6ae772bb278182df55ba9cbd2fd273a9d3b7
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/las-ninas-de-cristal-45131/src/las-ninas-de-cristal-45131-c.jpg",Las niñas de cristal (2022)
+acestream://2cbe4b4849da92e06c6ee55388d939a0af1fc996
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/14/18/16/2171528.jpg",Fast & Furious 9(2021)
 acestream://fe3fc64ae08f7396f95d14b5bfcb57c72e903a87
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/22/12/12/1938897.jpg",Muerte en el Nilo (2022)
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/22/12/12/1938897.jpg",Muerte en el Nilo(2022)
 acestream://19525a9176fd9202179b77c6c3bf994df7b30866
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/18/08/51/4021744.jpg",Moonshot(2022)
 acestream://0f079650aabc89dbcc738d46ae50c68b220dec67
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/08/31/18/13/1817160.jpg",Nunca, casi nunca, a veces, siempre(2020)
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/08/31/18/13/1817160.jpg",Nunca.casi nunca.a veces.siempre(2020)
 acestream://0f03eac94e5215573d115ce722b52a60f694081b
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/01/17/55/4564289.jpg",El sueño de Nate(2022)
 acestream://51973f27dea3af5403c81b90f5bb031709ff6f3c
@@ -334,7 +366,7 @@ acestream://a5c91421a2674d9d9fa3553c7eb9462ad56ea407
 #EXTINF:-1,tvg-logo="https://static.filmin.es/images/media/38062/1/poster_0_3_338x507.png",Frente al tornado (2021)
 acestream://3fb400a4818e203659aebb8bd63071ed004c9aba
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/02/16/26/3962728.jpg",Benedetta (2021)
-acestream://681e64ae4d9843cf3d59e5f1d779a05f2911f19f
+acestream://186af5cf60a1ad398e7b1f41d11209e3e2f4ae17
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/29/17/41/0043453.jpg",Maixabel (2021)
 acestream://c324d83a5d0fa3a1319b77b38d584993f01258d9
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/27/12/08/3794473.jpg",Ice Road (2021)
@@ -481,7 +513,7 @@ acestream://3f0cf9498e2c7e54874b67bf5c9451c3822b906d
 acestream://aaf28bd18d428b5b8614f7deea47257772064fda
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/29/10/38/4615173.jpg",Fue la mano de Dios(2021)
 acestream://71c8bfcdeca8d157c4aa45f0e12a5c1bdd765c7a
-#EXTINF:-1,tvg-logo="https://www.estrenosdecine.online/wp-content/uploads/2021/12/ptogether-together-al-unisono.jpg",Al unísono(2021)
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/together-together-42875/src/together-together-42875-c.jpg",Al unísono(2021)
 acestream://b5118c3d0bc4156cb64369267fe87584090e9f89
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/26/09/45/3443290.jpg",Separación(2021)
 acestream://7a9731cbac75c591189057cef493b2a854719a72
@@ -741,7 +773,7 @@ acestream://bda965e0b85670960665f9b3f08801284b4b1ca5
 acestream://be8dcc7d17753929b3412d7b796586907fdf2e35
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/01/11/55/2743880.jpg",El inglés que cogió la maleta y se fue al fin del mundo(2021)
 acestream://da16169a349ea3154ad0ab2d748ea1abf2910143
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/01/11/55/2743880.jpg",La Mansión(The Manor)(2021)
+#EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/w500/eNf7Dp1m6eTKDY7p56iZdterZkL.jpg",La Mansión(The Manor)(2021)
 acestream://cb95801c5e13c6d200f532481a405f9356ad16c7
 #EXTINF:-1,tvg-logo="https://images.moviefit.me/t/o/444978-the-night.jpg",The Night(An Shab)(2020)
 acestream://cb95801c5e13c6d200f532481a405f9356ad16c7
@@ -753,7 +785,7 @@ acestream://a065d6f9049f424c50f5363ba50eb06c96e2e8b4
 acestream://74bf72cd410ba9e99d578c20500a42960059cfe0 
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/11/11/56/4937515.jpg",The Good Traitor(2020)
 acestream://a003c86eb6a538d3e056f65259b97cc669245823
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/18/09/46/5843005.jpg",Madres(2021)
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjEV7Ve4ttzN1cAdTYKvmtSLJcySDHOSc2ONtRSHDpTZDgEbbbALbz6w4XZt9q7JnZ-Ew&usqp=CAU",Madres(2021)
 acestream://2ce6b25ca3fa7737bf565f78efa942c08016541d
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/28/11/47/4749018.jpg",Un hombre lobo entre nosotros(2021)
 acestream://2c746e34b0eacbf5a3f703a2afe13a218bf8a9a8
@@ -807,7 +839,7 @@ acestream://909b0472085ae2046b0ffcb939fbd1a192f5d37a
 acestream://4d9cb8ffd1a65552b82539b9cbce97dc95785a87
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/14/11/47/2960546.jpg",Free Guy(2021)
 acestream://05e30c291bdca9b800b90e1ac0b50c18c7f5dd8b
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/14/11/47/2960546.jpg",Dark Web: Cicada 3301(2021)
+#EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81dMni4WZoL._RI_.jpg",Dark Web: Cicada 3301(2021)
 acestream://a6d52ecc489259f9aa1e19b5b9198773fe7893b2
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/04/29/09/59/0785021.jpg",Sweat(2021)
 acestream://23b6a8c141b2b8ff5127166775593f5da6bbf6de
@@ -1694,7 +1726,7 @@ acestream://f2c0d0cf2e8fa6879c69051de5fa0b75d1d81ad6
 acestream://945afb6251216f3adc11a5abe4ec7f2cfa27d880
 #EXTINF:-1,tvg-logo="https://www.dcine.org/sites/default/files/carteles/la-ley-de-la-calle.jpg",La ley de la calle(2019)                              
 acestream://c85fbfbe8842d89cc4970daef400c719e979828e
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/La_Cripta_el_ltimo_secreto-729840253-mmed.jpg",La cripta, el último secreto(2020)                
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMmUwOTgxYjMtMWZmMi00NTI2LTliNTMtZGYzZGM4MGM5YjgxXkEyXkFqcGdeQXVyMTk5MjkzMjU@._V1_FMjpg_UX1000_.jpg",La cripta el último secreto(2020)                
 acestream://859e498346880dc63dd60ec268aabb099286129a
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/historias-lamentables-41366/src/historias-lamentables-41366-c.jpg",Historias lamentables(2020)                            
 acestream://3bb8cf73cb3668bfa1276a2c43b10e1a879d7aab
@@ -1732,7 +1764,7 @@ acestream://ee38255e6e0ee1c9974da669475c45817babf283
 acestream://7957363bb87625b568e1d6129075370918ef7608
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/I/91e0SEb4aWL._AC_SY550_.jpg",Inherit the Viper(2019)                                      
 acestream://5b37f7acfd8b19c877157acf5d04885652336eb9
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/I/91e0SEb4aWL._AC_SY550_.jpg",Perros de presa. Werewolf(2018)                          
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUwZGJhYTEtYjQzMy00MDAwLThlZjUtNDcxMjQ5ZjhkZWM4XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",Perros de presa.Werewolf(2018)                          
 acestream://88eb4dfaa1271dda5ee40e7ddaf2b36ac740d505
 #EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/w500/vvx5T8JIuGU0DUYx0Mld63C1eAG.jpg",Halloween at Aunt Ethel's(2019)                  
 acestream://7aa75f1fc1318bf55eef9b52fd8e36ddd1735050
