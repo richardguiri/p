@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/2020-42743/src/2020-42743-c.jpg",Ya vienen(2020)
+acestream://2ffd92421d287756d2ccce95d02108fd6b78068b
+#EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/w300/fOEigzmB1YEZueJKGZtMMlOh6ZK.jpg",Rehén letal(2021)
+acestream://7ade7ed6af03dd439f1d863ea3232b8350d8e9ab
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjIwOTkxZGItYmU2YS00MGIyLWEyZDItYzBjZjUxZmNjY2M3XkEyXkFqcGdeQXVyMTA0MzA1MzQy._V1_.jpg",Huida de Mogadiscio(2021)
+acestream://8a77ce7167eed7d7309810d02caa197e93ed7808
+#EXTINF:-1,tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_42030_87.jpg",Elige o muere(2022)
+acestream://bfdb67fdd888cde05b8a9432e6021624a47e24d4
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cyrano-44348/src/cyrano-44348-c.jpg",Cyrano(2022)
+acestream://005ec6f8ad4dd36c470b4ff9111b523dfa13c7b8
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/las-reinas-de-los-cupones-45340/src/las-reinas-de-los-cupones-45340-c.jpg",Las reinas de los cupones(2021)
+acestream://7b232108c55cdc75c15c851551e137c3592c871f
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/erase-una-vez-en-euskadi-44271/src/erase-una-vez-en-euskadi-44271-c.jpg",Érase una vez en Euskadi(2021)
+acestream://964d37f3933655ddb9b27e2f5ba834362d77f49b
+#EXTINF:-1,tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2022/04/poste-rfierecilla.jpg?fit=440%2C590&ssl=1",La fierecilla indomable(2022)
+acestream://f04b42ec1cd0baf9664b8644cbae07425292b31e
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/moonfall-43899/src/moonfall-43899-c.jpg",Moonfall(2022)
+acestream://644fd203265ce53aaa7cdb5bc6977ca9c83477eb
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/fresh-45280/src/fresh-45280-c.jpg",Fresh(2022)
+acestream://ce7b2989a19dc31bd96aa775ea7cba399e2ffada
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/heroe-de-dos-mundos-45324/src/heroe-de-dos-mundos-45324-c.jpg",Héroe en dos mundos(2021)
+acestream://a8dbb5cbac95d75a14e379323972e8a5b3ef8149
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/the-lost-daughter-44301/src/the-lost-daughter-44301-c.jpg",La hija oscura(2021)
+acestream://0fb52c08be81c6635c8f6a2ee767a1c6bd09f6ba
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/drive-my-car-43902/src/drive-my-car-43902-c.jpg",Drive My Car(2021)
+acestream://510a07ab8ffae21c6ee5529f54b30a7a5e7719c7
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/donbass-39518/src/donbass-39518-c.jpg",Donbass(2018)
+acestream://f8668be6230a9bd2c1f71e59e085b25cebe3008c
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/distrito-87-ola-de-calor-24334/distrito-87-ola-de-calor-24334-c.jpg",Heatwave(2022)
+acestream://48ae80497f2c29afdd2f728121dd7bf071fc0904
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/wheel-of-fortune-and-fantasy-43379/src/wheel-of-fortune-and-fantasy-43379-c.jpg",La ruleta de la fortuna y la fantasía(2021)
+acestream://46b0dbfadb42d819aaa380d176f2f55def2d8a0c
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/el-amor-en-su-lugar-44456/src/el-amor-en-su-lugar-44456-c.jpg",El amor en su lugar(2021)
+acestream://1b4ffb041499e561240fabdc215a5f6ed6afbb63
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/nowhere-special-42258/src/nowhere-special-42258-c.jpg",Cerca de ti(2020)
+acestream://c42b49f762c67e431f2dcb902b6ed2f39ba14aa6
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/la-protegida-44444/src/la-protegida-44444-c.jpg",La protegida(2021)
 acestream://03bdc3a9c9d28c789878c41060c626a528f8c530
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/la-caja-negra-black-box-43062/src/la-caja-negra-black-box-43062-c.jpg",Black Box(2021)
