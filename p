@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/the-batman-42376/src/the-batman-42376-c.jpg",group-title="The Batman(2022)"
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/the-batman-42376/src/the-batman-42376-c.jpg",The Batman(2022)
 acestream://b21f036f4fa7a8cd8f677da7b2ba0d0103cc3fb6
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/2020-42743/src/2020-42743-c.jpg",Ya vienen(2020)
 acestream://2ffd92421d287756d2ccce95d02108fd6b78068b
