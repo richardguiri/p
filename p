@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/wyrmwood-apocalypse-44461/src/wyrmwood-apocalypse-44461-c.jpg",Wyrmwood:Apocalypse(2022)
+acestream://6987c5b55bf4e2635d6a01beb46f3eaa19d8746c
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/una-libreria-en-paris-44657/src/una-libreria-en-paris-44657-c.jpg",Una librería en París(2021)
+acestream://5e31094d8404f42885c5f52195a9ed86238476e9
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/punto-de-inflexion-45441/src/punto-de-inflexion-45441-c.jpg",Punto de inflexión(2021)
+acestream://7f83e171087167e66e48da041e1b5c144c9604eb
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/jackass-forever-45211/src/jackass-forever-45211-c.jpg",Jackass Forever(2022)
+acestream://21eb3c6701b59b154ddfd6c0da068d61337db9aa
+#EXTINF:-1,tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_40849_6.jpg",Invocación mortal(2021)
+acestream://fbec92cad10da0dfea1ea6fe744adbf1b9ac0a9a
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/raging-fire-45325/src/raging-fire-45325-c.jpg",Raging Fire(2021)
+acestream://242e7540d9135ea90a188ece18238d713b97b714
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/natural-light-43386/src/natural-light-43386-c.jpg",Luz Natural(2021)
+acestream://2063d5d189e8b15ce117cd0c34677e1accd2d87d
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/wyrmwood-apocalypse-44461/src/wyrmwood-apocalypse-44461-c.jpg",Wyrmwood:Apocalypse(2022)
+acestream://6987c5b55bf4e2635d6a01beb46f3eaa19d8746c
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/una-libreria-en-paris-44657/src/una-libreria-en-paris-44657-c.jpg",Una librería en París(2021)
+acestream://5e31094d8404f42885c5f52195a9ed86238476e9
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/punto-de-inflexion-45441/src/punto-de-inflexion-45441-c.jpg",Punto de inflexión(2021)
+acestream://7f83e171087167e66e48da041e1b5c144c9604eb
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/jackass-forever-45211/src/jackass-forever-45211-c.jpg",Jackass Forever(2022)
+acestream://21eb3c6701b59b154ddfd6c0da068d61337db9aa
+#EXTINF:-1,tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_40849_6.jpg",Invocación mortal(2021)
+acestream://fbec92cad10da0dfea1ea6fe744adbf1b9ac0a9a
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/raging-fire-45325/src/raging-fire-45325-c.jpg",Raging Fire(2021)
+acestream://242e7540d9135ea90a188ece18238d713b97b714
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/natural-light-43386/src/natural-light-43386-c.jpg",Luz Natural(2021)
+acestream://2063d5d189e8b15ce117cd0c34677e1accd2d87d
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/the-batman-42376/src/the-batman-42376-c.jpg",The Batman(2022)
 acestream://b21f036f4fa7a8cd8f677da7b2ba0d0103cc3fb6
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/2020-42743/src/2020-42743-c.jpg",Ya vienen(2020)
