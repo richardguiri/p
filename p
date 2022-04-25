@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/uncharted-43126/src/uncharted-43126-c.jpg",Uncharted(2022)
+acestream://ef8ed76b23526dbac2fd06f1f636a553bbb5d2e9
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/clean-45326/src/clean-45326-c.jpg",Clean(2021)
+acestream://9fb6d5041225ff52064034818f99e4eaaf15db76
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/I/81zEqjDGJDS._SY445_.jpg",To Be Someone(2021)
+acestream://5c44a7f62c629728119c5c18c94bfa0978ef73c3
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/wyrmwood-apocalypse-44461/src/wyrmwood-apocalypse-44461-c.jpg",Wyrmwood:Apocalypse(2022)
 acestream://6987c5b55bf4e2635d6a01beb46f3eaa19d8746c
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/una-libreria-en-paris-44657/src/una-libreria-en-paris-44657-c.jpg",Una librería en París(2021)
