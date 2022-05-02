@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81yrqM4L4xL._RI_.jpg",La Octava Cláusula(2022)[5.0]
+acestream://2b11c5eeedf4c45dc557b6e3a82dcc9e18ecf296
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/el-asedio-de-silverton-45393/src/el-asedio-de-silverton-45393-c.jpg",El asedio de Silverton(2022)[6.6]
+acestream://68a6a7bcc767e8f8364ab762bd1f50df06eee9b8
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE1YjMwNTktY2E3MS00ZWVkLWEwMzUtZThlZmJlMmY0ZGY4XkEyXkFqcGdeQXVyMjI4MjA3NDY@._V1_.jpg",Vida salvaje(2022)[4.9]
+acestream://76c0e7d3b99594566ec5295bb84f5c758e7b2940
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/nora-42470/src/nora-42470-c.jpg",Nora(2020)[6.5]
+acestream://9ec593ebbe2d8b1769a0afce921ff819d12e63c8
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/deliciosa-44312/src/deliciosa-44312-c.jpg",Delicioso(2021)[6.9]
+acestream://c11681460501886421a3b9c2e5f111f313d3929d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTAwNmJmZGEtNDViYy00MjhhLWFlOGQtYzMzMGM3YjE5MTVmXkEyXkFqcGdeQXVyNzI0MTY5MQ@@._V1_FMjpg_UX1000_.jpg",Barbacoa(2021)[6.8]
+acestream://415923380d53a4c756803159dcab330ab1b6a906
+#EXTINF:-1,tvg-logo="https://elcritico.com.ar/wp-content/uploads/2022/04/365-poster-2.jpg",365 días: Aquel día(2022)[6.2]
+acestream://c287efd28e96d4e429d0da8b91114b544b6734da
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/monday-44954/src/monday-44954-c.jpg",Monday(2021)[7.2]
+acestream://ea17bc8e64246ce64e206f98b53ed918bd4d0b9a
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/madeleine-collins-44550/src/madeleine-collins-44550-c.jpg",Madeleine Collins(2021)[6.6]
+acestream://3aac057a0832e44fdab7372dc77200418a2e1e86
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTA5NzczNTctMTJjNy00ZDk3LThkZjUtNTUxM2FkYzYyZTJjXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",I Love America(2022)[5.2]
+acestream://d72c8e311786d9ab47e4a30ac3948e3d39b8cca0
+#EXTINF:-1,tvg-logo="https://maxpeliculas.net/pelis/wp-content/uploads/2021/12/doom-annihilation-(poster35).jpg",Doom: Annihilation(2019)[4.9]
+acestream://d072149271f13f350e0e2cc70db4a681d412da0d
+#EXTINF:-1,tvg-logo="https://nomixto.top/wp-content/uploads/2022/04/Hazme-volar-2021.jpg",Hazme volar(2021)[7.0]
+acestream://b6b3555bb3787a8da61a74f81618ced711693532
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/el-misterio-de-marilyn-monroe-las-cintas-ineditas-45370/src/el-misterio-de-marilyn-monroe-las-cintas-ineditas-45370-c.jpg",El misterio de Marilyn Monroe: Las cintas inéditas(2022)[6.5]
+acestream://5c2d2bc9c381840c59a330347f1b37f94317a6a9
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/amor-de-madre-45203/src/amor-de-madre-45203-c.jpg",Amor de madre(2022)[6.4]
+acestream://bf3b1fb683c6821ead2176d215ce3874128a6f12
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/uncharted-43126/src/uncharted-43126-c.jpg",Uncharted(2022)
 acestream://ef8ed76b23526dbac2fd06f1f636a553bbb5d2e9
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/clean-45326/src/clean-45326-c.jpg",Clean(2021)
