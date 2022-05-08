@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://www.laluzazul.es/productos/imagenes/img_6056_1ea2ba81681e4b61ec569a22cd5a069e_1.jpg",OSS 117 Desde Africa Con Amor(2021)5.7
+f7a5418dc710ccb8098d136f3b9f045dfcac3fab.torrent
 #EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81yrqM4L4xL._RI_.jpg",La Octava Cláusula(2022)[5.0]
 acestream://2b11c5eeedf4c45dc557b6e3a82dcc9e18ecf296
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/el-asedio-de-silverton-45393/src/el-asedio-de-silverton-45393-c.jpg",El asedio de Silverton(2022)[6.6]
