@@ -27,7 +27,7 @@ acestream://027cbf1538992ff987c872b064e7acf4974c9200
 acestream://22420d8a19f1fdc49b9a4870b72f6fd4b757d261
 #EXTINF:-1,tvg-logo="https://martincid.com/wp-content/uploads/2022/05/cuarentones-230723472-large-1.jpg",CUARENTONES(2022)5.8
 acestream://fdb3eee5a88c40310590da290d26a5591beb0413
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQ0YzNhODYtNzhjMS00NzY5LWE0M2MtOWQ2MzNjN2IyMzdiXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg",BURBUJAS(2022)8.4
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQ0YzNhODYtNzhjMS00NzY5LWE0M2MtOWQ2MzNjN2IyMzdiXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg",BURBUJA(2022)8.4
 acestream://b52b5aea93706546dcc3527abb9bcf5ea9c62e17
 #EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81yrqM4L4xL._RI_.jpg",La Octava Cláusula(2022)[5.0]
 acestream://2b11c5eeedf4c45dc557b6e3a82dcc9e18ecf296
