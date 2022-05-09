@@ -1,6 +1,34 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJlMzNmNjEtNmI4Ny00ZWQzLWEwY2YtOTIxMmE2OTQ3ODVmXkEyXkFqcGdeQXVyMjI3NDAyNg@@._V1_FMjpg_UX1000_.jpg",FRANCE(2022)5.1
+acestream://fb6c506f21ba4cfb1620084dfac182376b92b27c
+#EXTINF:-1,tvg-logo="https://domonfilm.files.wordpress.com/2022/01/black-friday-signature-entertainment-artwork.jpg?w=1200",BLACK FRYDAY(2021)4.9
+acestream://6c009ca8381f3094a42a51a99ee8e60bfc0b8638
 #EXTINF:-1,tvg-logo="https://www.laluzazul.es/productos/imagenes/img_6056_1ea2ba81681e4b61ec569a22cd5a069e_1.jpg",OSS 117 Desde Africa Con Amor(2021)5.7
 acestream://08e80734f546ec1612c7d04648a4d0e994d12997
+#EXTINF:-1,tvg-logo="https://seuladogeek.com.br/wp-content/uploads/2022/05/Incompatibles-2-Pelicula-800x1120.jpg",INCOMPATIBLES 2(2022)6.2
+acestream://d77a16824b6a310a0748620db98118594a35bddf
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/dejate-llevar-45456/dejate-llevar-45456-c.jpg",DEJATE LLEVAR(2022)7.1
+acestream://a048afc785bddf2af5cdefc29b557131b76a811b
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/flag-day-43903/src/flag-day-43903-c.jpg",EL DIA DE LA BANDERA(2021)
+acestream://71980093da34cbab7ff859c019cf9dd8d92ef15e
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/un-pequeno-mundo-44774/un-pequeno-mundo-44774-c.jpg",UN PEQUEÑO MUNDO(2022)7.3
+acestream://00bae88439248a90b9692d1b343c4c6e1cf3c3a8
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/pajaros-enjaulados-44799/pajaros-enjaulados-44799-c.jpg",PAJAROS ENJAULADOS(2022)10
+acestream://c01b0b5d8b93c064264519264273f24861bd7499
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/el-espia-honesto-44390/el-espia-honesto-44390-c.jpg",EL ESPIA HONESTO(2021)7.2
+acestream://6aaf79cc6393bdb655e92a2c33771f587d84aa25
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/el-profugo-41559/el-profugo-41559-c.jpg",EL PROFUGO(2021)5.6
+acestream://b054fb18c24691084111ac2cfeb20813bb1895bf
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNhNzRlZjctZWVlMC00ODU3LWFmOTgtNDI1ZGM0N2IxY2EwXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",CRUSH(2022)7.4
+acestream://e06e083f496960eaa50c1dedae13a6a92749e02b
+#EXTINF:-1,tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp53KE0cYFu3AMnuTObwEnqMn2k8tIHPs7U_BVMwEKriRaNjP6hnV_AWt6x_GnA22t4QGaar1Q9KhYQD30gZCFW0B7v5DYNvJXehsDZsMk96ydTBuZGUiu_YpllVbz9U7lQ-n4-vO4mHpaL4lw-z4EH-0nkyJRX-ULQzKYT3drZLJFrnyG6lfuYRnR/s1350/ecos%20de%20un%20crimen%20hbo%20max.jpg",ECOS DE UN CRIMEN(2022)7.2
+acestream://027cbf1538992ff987c872b064e7acf4974c9200
+#EXTINF:-1,tvg-logo="https://cd1.taquilla.com/data/images/t/3a/todo-es-gila.jpg",TODO ES GILA(2022)5.6
+acestream://22420d8a19f1fdc49b9a4870b72f6fd4b757d261
+#EXTINF:-1,tvg-logo="https://martincid.com/wp-content/uploads/2022/05/cuarentones-230723472-large-1.jpg",CUARENTONES(2022)5.8
+acestream://fdb3eee5a88c40310590da290d26a5591beb0413
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQ0YzNhODYtNzhjMS00NzY5LWE0M2MtOWQ2MzNjN2IyMzdiXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg",BURBUJAS(2022)8.4
+acestream://b52b5aea93706546dcc3527abb9bcf5ea9c62e17
 #EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81yrqM4L4xL._RI_.jpg",La Octava Cláusula(2022)[5.0]
 acestream://2b11c5eeedf4c45dc557b6e3a82dcc9e18ecf296
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/el-asedio-de-silverton-45393/src/el-asedio-de-silverton-45393-c.jpg",El asedio de Silverton(2022)[6.6]
