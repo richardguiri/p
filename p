@@ -1,4 +1,55 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMDA1NDMyNDMtOTQ4MS00ZGQzLTgyOGEtYWI4M2MyODg0YjhjXkEyXkFqcGdeQXVyMDEyMTQzNw@@._V1_FMjpg_UX1000_.jpg",Virus-32.(2022)6.9lat
+acestream://6df6eb5926c065a0271e8c01c38b6ef3951b4f15
+#EXTINF:-1,tvg-logo="https://images.justwatch.com/poster/268367659/s592/the-exorcism-of-god",El Exorcismo de dios(2021)6.8lat
+acestream://f06a4374c1664f0fc4af219b04da0aee301a28ce
+#EXTINF:-1,tvg-logo="https://m.guiadelocio.com/var/guiadelocio.com/storage/images/cine/archivo-peliculas/noche-de-fuego/40623723-1-esl-ES/noche-de-fuego.jpg",Noche de fuego(2021)7.9lat
+acestream://a110806c4ee4858a6179fc5c12a9785217755194
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/la-ciudad-perdida-44788/la-ciudad-perdida-44788-c.jpg",la ciudad perdida(2022)7.9lat
+acestream://a0079b6d2991cb584fc95dfa9dd10d67b1328322
+#EXTINF:-1,tvg-logo="https://labutacaweb.files.wordpress.com/2021/10/20211025_170607.jpg",Errante Corazon(2021)5.8lat
+acestream://4dd7e7523dd7f6ba3970534b9c498350a047b3eb
+#EXTINF:-1,tvg-logo="https://labutacaweb.files.wordpress.com/2021/10/20211025_170607.jpg",Ambulancia(2022)7.0lat
+acestream://359cbb19523b534e4eeade429966b6b368aa3b74
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/sonic-la-pelicula-2-43230/sonic-la-pelicula-2-43230-c.jpg",Sonic the Hedgehog 2(2022)7.8lat
+acestream://187760a34a74e8b0acd9e7f0c48026bc59ddeeee
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles/17000/17024/003_m.jpg",el hombre del norte(2022)7.8lat
+acestream://208c4d3f4c313cba0ef1d4c05650a0226e1b9d86
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/one-shot-mision-de-rescate-44743/one-shot-mision-de-rescate-44743-c.jpg",One Shot(Mision de rescate)(2021)6.8
+acestream://70b9bab9e2ff17b5d1bc3de1a56e408858b1860b
+#EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/original/8Kce1utfytAG5m1PbtVoDzmDZJH.jpg",Un Dia Para Morir(2022)5.4
+acestream://20e5ea9788e432664651b138aabb5f14617c9cfb
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/09/10/30/4851423.jpg",Atrapados En La Oscuridad(2021)5.9
+acestream://c2645fc6f993f6a01c5df826280fb7fdf61402a0
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/ghost-in-the-shell-sac-2045-41912/src/ghost-in-the-shell-sac-2045-41912-c.jpg",Ghost in the shell sac2045(2021)8.6
+acestream://911406e0647213547332707599b55cd881ab5c35
+acestream://9a12d5f53401233f2ebd05a052974e815a0f1af1
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/sneakerella-cenicienta-en-zapatillas-45457/sneakerella-cenicienta-en-zapatillas-45457-c.jpg",Sneakerella Cenicienta En Zapatillas(2022)
+acestream://e84740247f7245449cd742045ba94d54c90f2f81
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/vuelta-al-insti-45499/vuelta-al-insti-45499-c.jpg",Vuelta Al Insti(2022)6.1
+acestream://2b5259627b0f72b951b235c9ddfdfc1f814beae7
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/fatima-41050/fatima-41050-c.jpg",Fatima, La Pelicula(2020)7.3
+acestream://36417e11edf178b54d412576a8c1c33995459a31
+#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/21/12/15/17/03/4952929.jpg",Aline(2022)7.0
+acestream://a77c850faaaaad7ec2364d477a7a8398647911e5
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/los-intranquilos-43912/los-intranquilos-43912-c.jpg",Un amor intranquilo(2021)7.0
+acestream://e2698f3cab8ce0f74012d5d1a0424645cf50ee28
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/la-familia-perfecta-42694/la-familia-perfecta-42694-c.jpg",La familia perfecta(2022)6.9
+acestream://14054a504e7e324047ff371fb7588f7e5771482e
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/x-45244/x-45244-c.jpg",x(2022)6.9
+acestream://6e8cc257524307153a5e626ba15e8b0983b77c81
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/mother-android-44594/mother-android-44594-c.jpg",Madre Androide(2021)
+acestream://0a273756dd064a96a149406a525d4bb9c586a458
+#EXTINF:-1,tvg-logo="https://cinemagavia.es/wp-content/uploads/2021/12/Querido-Evan-Hansen-poster.jpg",Querido Evan Hansen(2021)
+acestream://cd4208fb6c2b52562b8ee3d1779e3e2f2274f9f1
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/schumacher-44365/schumacher-44365-c.jpg",Schumacher(2021)
+acestream://1558a69aa8965c3f1177a8c393887db7a0f857c8
+#EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/original/e6ZYz8hdMAYngjy75R9gS7CO1Bz.jpg",sweetheart(2021)
+acestream://1c38b48db313bd31c4eb7ea4eab97462454109c2
+#EXTINF:-1,tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_51798.jpg",The Penthouse(2021)
+acestream://15001f5e1bfc680301ca6e81491bb8c8d78c49cb
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/north-hollywood-45429/north-hollywood-45429-c.jpg",North Hollywood(2022)
+acestream://d5a82ed471c05622088449780481d1ea87ba5748
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJlMzNmNjEtNmI4Ny00ZWQzLWEwY2YtOTIxMmE2OTQ3ODVmXkEyXkFqcGdeQXVyMjI3NDAyNg@@._V1_FMjpg_UX1000_.jpg",FRANCE(2022)5.1
 acestream://fb6c506f21ba4cfb1620084dfac182376b92b27c
 #EXTINF:-1,tvg-logo="https://domonfilm.files.wordpress.com/2022/01/black-friday-signature-entertainment-artwork.jpg?w=1200",BLACK FRYDAY(2021)4.9
