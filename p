@@ -9,7 +9,7 @@ acestream://a110806c4ee4858a6179fc5c12a9785217755194
 acestream://a0079b6d2991cb584fc95dfa9dd10d67b1328322
 #EXTINF:-1,tvg-logo="https://labutacaweb.files.wordpress.com/2021/10/20211025_170607.jpg",Errante Corazon(2021)5.8lat
 acestream://4dd7e7523dd7f6ba3970534b9c498350a047b3eb
-#EXTINF:-1,tvg-logo="https://labutacaweb.files.wordpress.com/2021/10/20211025_170607.jpg",Ambulancia(2022)7.0lat
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/ambulance-plan-de-huida-44607/ambulance-plan-de-huida-44607-c.jpg",Ambulancia(2022)7.0lat
 acestream://359cbb19523b534e4eeade429966b6b368aa3b74
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/sonic-la-pelicula-2-43230/sonic-la-pelicula-2-43230-c.jpg",Sonic the Hedgehog 2(2022)7.8lat
 acestream://187760a34a74e8b0acd9e7f0c48026bc59ddeeee
