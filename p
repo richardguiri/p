@@ -1,4 +1,50 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA3N2Q0ZTAtODJjNy00MmQzLWJlMmItOGFmNDI0ODgxN2QwXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_.jpg",Morbius(2022)6.3
+acestream://b2b89914d5e80d7a55ef7dee6aad65cf47c1456d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFmOTk1MTYtYzEzZC00YjNhLWEwOGYtZTZhNWQyZjRhMTVjXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",Los ultimos supervivientes(2022)5.3
+acestream://c08f0de56d0fb3cef07358c9baea7ff7632769f4
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/19/15/42/2546033.jpg",Lakewood(2021)5.9
+acestream://443aee84555b18ed33274b9cf21094c9aa29cf74
+#EXTINF:-1,tvg-logo="https://t2.salir.ltmcdn.com/es/movies/7/7/3/en_un_muelle_de_normandia_0_orig.jpg",En un muelle de Normandia(2022)7.2
+acestream://16ec6f3cbea9e7b094707782a84d6ee5e1daa6a2
+#EXTINF:-1,tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/05/thenowhereinn.jpg.webp",The Nowhere Inn(2022)6.1
+acestream://0830ab39e9c6556ff86d1e3b01f278b1e0c1da02
+#EXTINF:-1,tvg-logo="https://www.cine.com/peliculas4/106197/106197_0.jpg",El este(2020)6.3
+acestream://bd0a7621bd40cbba361a2ef80ab3deca6338bcdf
+#EXTINF:-1,tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2022/05/Poster-tal-para-cual.jpg?fit=429%2C600&ssl=1",Tal para cual(2022)6.7
+acestream://10b4906bebf9bac5e06a2bc5f06c8c90e08bd606
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYmEyMmNmZDQtOTYwNy00MjU0LWJlZWEtZTFhYmZjMGZhYjhlXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_FMjpg_UX1000_.jpg",Despierta tigre(2022)5.1
+acestream://92bce5e7f2a36ce67fc648170300e4b46e344251
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWZkNzJiYzUtZTRjMy00ZDk1LThjNWEtYjNjMDNhNDNlMGU5XkEyXkFqcGdeQXVyNDQxOTAyNA@@._V1_.jpg",The Valet(2022)7.3 
+acestream://a8279564ec08089fe96577d6ec3af2e14c3360bd
+#EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/55829e3d74e0897e0d6c1a2ce9ba689052a15972b06e4002a30b672a2e325a63._RI_V_TTW_.jpg",El último hijo(2021)6.2
+acestream://72e06061b7d9a5d4e4ad7e58bd0af9db619743a6
+#EXTINF:-1,tvg-logo="https://martincid.com/wp-content/uploads/2022/05/MV5BYjdmNzQ1ODctYjA4Zi00ZGE5LWE3MzEtZDYzYjcwN2QyNTAzXkEyXkFqcGdeQXVyNDk3MzMwMTI@._V1_.jpg",A la mierda el amor otra vez(2022)6.3
+acestream://6c880c9e388947a913dd96056cdb54f5fec9e72c
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/arturo-y-el-algoritmo-45519/arturo-y-el-algoritmo-45519-c.jpg",Arturo y el algoritmo(2022)6.6
+acestream://a9aff2e65cc3d02222b8c005b13db48330b609ef
+#EXTINF:-1,tvg-logo="https://www.metrotheatres.com/remote.axd///platformlivefilmdbstrg.blob.core.windows.net/metro-circuit-10113/23-94402-a916c10f-785d-4ee2-bb05-b8b28a5b44c8.jpg?preset=filminfo",Jackass 4.5(2022)6.3
+acestream://dc8d66175a99645acc7b63736e124d51bbe1b1e7
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMmFhM2YxYzMtZGU0Ny00Nzg3LTkzODUtMDZjYjVhZGEzZTJhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",Yakuza Princess(2021)6.1
+acestream://d0fff63271a49477197e6a2d63d654a6b58560b7
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjMxZWQ3YmMtNDQzZC00OTgwLWIwOGItMmY4MjFlM2MxNmQ2XkEyXkFqcGdeQXVyMTk5MDU5OTA@._V1_FMjpg_UX1000_.jpg",Pacto.de.Fuga(2020)7.7
+acestream://2f13a35fac717ea052a06c7e5bbf294d3b68f0b1
+#EXTINF:-1,tvg-logo="https://moviehaku.com/thumbs/films/400x590/Sangre.jpg",Sangre(2020)4.8
+acestream://2f0e19ffe842f7d535479d80bc49f1eb56fd9da6
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/el-lodo-44342/el-lodo-44342-c.jpg",El lodo(2021)4.8
+acestream://42ea1fa4c8ec7be26914d7fd270974f914c3b44a
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/culpa-45200/culpa-45200-c.jpg",Culpa(2022)5.5
+acestream://8d73d4ef6020f3babc96f8a4d444fa29d33f7b50
+#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/ghzc3ry6AX-o1P2IjNRxZIMuAIUii8a8EX1RsoTZq_JTBnj43rNQdidOvolAtz0-2PqDm5iLQ7gZQJyC-u_tD8t3xx73LiLj4GBjeP7gvtcn0rPpdaNP5XK1-MOmM4tJoqgVJdv8Y4Y=w2400",Ciberinfierno(2022)6.6
+acestream://e9294b991c808154b6f3ee72c6fbf56ef7eb0429
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/chico-mocoso-44744/chico-mocoso-44744-c.jpg",Chico mocoso(2022)5.5 
+4cab5abe37cbf9bf8426fe7c79aa4f9a9ec0b29c
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/en-la-toscana-45531/en-la-toscana-45531-c.jpg",En la Toscana(2022)4,8
+acestream://eaa5464fbf10d520152b2076a0a0c046263cf072
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBlMjIxN2ItNTMyNi00NDk5LWFhMzEtNzdiODE0Y2M4MWI2XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",Chip y Chop(2022)7.1
+acestream://f1029d7ea689ed75372c5e4ceacee2fd8e5a023f
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/211-39521/211-39521-c.jpg",211(2022)5.4
+acestream://d41d12d98842c9ea627bae16307655290805665d
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMDA1NDMyNDMtOTQ4MS00ZGQzLTgyOGEtYWI4M2MyODg0YjhjXkEyXkFqcGdeQXVyMDEyMTQzNw@@._V1_FMjpg_UX1000_.jpg",Virus-32.(2022)6.9lat
 acestream://6df6eb5926c065a0271e8c01c38b6ef3951b4f15
 #EXTINF:-1,tvg-logo="https://images.justwatch.com/poster/268367659/s592/the-exorcism-of-god",El Exorcismo de dios(2021)6.8lat
