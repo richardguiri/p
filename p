@@ -38,8 +38,8 @@ acestream://8d73d4ef6020f3babc96f8a4d444fa29d33f7b50
 #EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/ghzc3ry6AX-o1P2IjNRxZIMuAIUii8a8EX1RsoTZq_JTBnj43rNQdidOvolAtz0-2PqDm5iLQ7gZQJyC-u_tD8t3xx73LiLj4GBjeP7gvtcn0rPpdaNP5XK1-MOmM4tJoqgVJdv8Y4Y=w2400",Ciberinfierno(2022)6.6
 acestream://e9294b991c808154b6f3ee72c6fbf56ef7eb0429
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/chico-mocoso-44744/chico-mocoso-44744-c.jpg",Chico mocoso(2022)5.5 
-4cab5abe37cbf9bf8426fe7c79aa4f9a9ec0b29c
-#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/en-la-toscana-45531/en-la-toscana-45531-c.jpg",En la Toscana(2022)4,8
+acestream://4cab5abe37cbf9bf8426fe7c79aa4f9a9ec0b29c
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/en-la-toscana-45531/en-la-toscana-45531-c.jpg",En la Toscana(2022)4.8
 acestream://eaa5464fbf10d520152b2076a0a0c046263cf072
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBlMjIxN2ItNTMyNi00NDk5LWFhMzEtNzdiODE0Y2M4MWI2XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",Chip y Chop(2022)7.1
 acestream://f1029d7ea689ed75372c5e4ceacee2fd8e5a023f
