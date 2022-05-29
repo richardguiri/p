@@ -11,7 +11,7 @@ acestream://7ea83d00493b68291ea71536559195bd625d0b47
 acestream://4944e9e023267ff3f9a12fd3c56d952c4ab046f3
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzYwMTgxYWMtODYzMy00ZGFmLWJjYTQtYzg0ZDk2Y2Y4N2FlXkEyXkFqcGdeQXVyMTY1NDQ5ODA@._V1_FMjpg_UX1000_.jpg",Dark Cloud(2022)5.3
 acestream://280c6978699cb4240dbb6bcfc937c1ec30e057b2
-#EXTINF:-1,Capitan Carver(2021)5.8
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/09/17/50/3914119.jpg",Capitan Carver(2021)5.8
 acestream://b79e3cd8d37186d9dbcbe21b875faf1d2461fdea
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY4N2I2YmItYWE4NC00MTY2LWE2ODYtYmE2MmQ4ZTgxNWVkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",Veneciafrenia(2021)4.8
 acestream://4b3addb3a17c01c96e10745871b2ca8eaa80a079
