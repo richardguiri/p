@@ -1,4 +1,48 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://i.postimg.cc/8C1vm6Pz/unnamed-25.png",Herederas(2021)5.0
+acestream://dd830adcba19452a2412e3c06645646082f46948
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZiNjVkMTctN2JiOS00MmQ0LWJjMzUtY2EyZDM5YmFkZjQzXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",El brindis(2022)6.6
+acestream://aff932af29cbd9a839266e4888fe1cebf74eb13d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODg4ZmFkMWQtMDYwNi00OThmLWE3NmMtOWJkMTZkNDFlZjlhXkEyXkFqcGdeQXVyMzIwNDY4NDI@._V1_FMjpg_UX1000_.jpg",Ariaferma(2021)7.2
+acestream://6b6027aaa9184caa21360c8032f85e2a9200a4ec
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU1MGJiMzQtM2U0ZS00NmYwLTllZDUtMmYyYTMyNWM5NGNhXkEyXkFqcGdeQXVyNjAzNjA0MzM@._V1_.jpg",El último zombi(2021)5.9
+acestream://7ea83d00493b68291ea71536559195bd625d0b47
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTNhYTgzNjItYTNlOC00ZGYyLTk4MzMtMTk5NzE4NmRiN2UxXkEyXkFqcGdeQXVyMzk5MzI2NzM@._V1_FMjpg_UX1000_.jpg",El perfecto David(2021)6.0
+acestream://4944e9e023267ff3f9a12fd3c56d952c4ab046f3
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzYwMTgxYWMtODYzMy00ZGFmLWJjYTQtYzg0ZDk2Y2Y4N2FlXkEyXkFqcGdeQXVyMTY1NDQ5ODA@._V1_FMjpg_UX1000_.jpg",Dark Cloud(2022)5.3
+acestream://280c6978699cb4240dbb6bcfc937c1ec30e057b2
+#EXTINF:-1,Capitan Carver(2021)5.8
+acestream://b79e3cd8d37186d9dbcbe21b875faf1d2461fdea
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY4N2I2YmItYWE4NC00MTY2LWE2ODYtYmE2MmQ4ZTgxNWVkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",Veneciafrenia(2021)4.8
+acestream://4b3addb3a17c01c96e10745871b2ca8eaa80a079
+#EXTINF:-1,tvg-logo="https://images.justwatch.com/poster/241733675/s592/override-2021",R.I.A.(override)(2021)6.6
+acestream://ba6b509c5443669666117aecf3a33c725359bea4
+#EXTINF:-1,tvg-logo="https://martincid.com/wp-content/uploads/2022/02/MV5BZTIzN2M3NDMtZmMzNy00NTJjLWE5OGUtODdmMjMwMWNlODhkXkEyXkFqcGdeQXVyMTg2NDYxMzc@._V1_.jpg",Conspiracion en Hollywood(2022)5.5
+1388b1e1376e765cadac1ed253fb157dc040dd57
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/en-el-silencio-45582/en-el-silencio-45582-c.jpg",En el silencio(2020)7.7
+b0cb9fd142dc6cdaa2c8704e498693a57ca7d224 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/11/09/46/1726878.jpg",Emergency(2022)5.9
+acestream://e80e4f4e6f1eeed3b834ee207edb7eb1d6c83ce8
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDFlNjcwMmYtMGFkYi00YTQ4LTlhZmUtZmNlYzE5ZmY0Y2NmXkEyXkFqcGdeQXVyMTIyMjI4OTkx._V1_FMjpg_UX1000_.jpg",Que tengas un buen viaje(2022)6.8
+acestream://3747b77b7e9abc28380e83590c95ac9767fdf3e8
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY1YThmYWQtNmUyNS00MjhjLTkzZjUtMzUxNTFiMTMwZTBiXkEyXkFqcGdeQXVyMTM2MzAwOA@@._V1_FMjpg_UX1000_.jpg",Camera Cafe la pelicula(2022)4.8
+acestream://26a2de6720a283ec9d499fa619ebadf4d04d5adb
+#EXTINF:-1,tvg-logo="https://cdn2-ttvbo.prod.facade.telstra.com.au/api/v2/img/61808485e4b0b6b1e9c263fb-1635812486742?location=asset-cover-art",La voz de la resistencia(2021)6.6
+acestream://0a605fd35511c891bd22bee50dc35d8b0e420a81
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/564x/5f/72/5d/5f725dd18eab5f4a030ad86307b2560f.jpg",Amor redentor(2022)7.7
+acestream://2ce09a7ca965a307f1b403060c9d76a327a69f5b
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/29/16/24/0806851.jpg",Al Acecho(2020)6.6
+acestream://8c42113a1c81d8a59fbc6c0ffa778cef3cdc0a39
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/10/17/33/4401584.jpg",Lunaticos(2021)6.3
+acestream://8c40a9036581eb446213d840f91d8671895aed0c
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/la-ciudad-perdida-44788/la-ciudad-perdida-44788-c.jpg",La ciudad perdida(2022)6.8
+acestream://35e6facc25b8998c0b4be14296bbb67a0e94cd56
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/sonic-la-pelicula-2-43230/sonic-la-pelicula-2-43230-c.jpg",Sonic 2 La pelicula(2022)7.8
+acestream://3c993c1f2c7e3be530cbe52822438c4316d3f71f
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/15/17/19/4607724.jpg",Todo ha ido bien(2021)6.7
+acestream://c45922974093227f445d679abcf99ac9869e4bb9
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-bQRhoBdlzAU/YZ9i9pFkQkI/AAAAAAAAeik/yqgt-5K-GhsqC27NcB0BvHH5_0f4urR1gCLcBGAsYHQ/s2048/Cartel%2BLA%2BPUERTA%2BDE%2BAL%2BLADO.jpg",La puerta de al lado(2021)6.9
+acestream://fb2920fbbcbeaa307a10a6a58114626072655eab
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA3N2Q0ZTAtODJjNy00MmQzLWJlMmItOGFmNDI0ODgxN2QwXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_.jpg",Morbius(2022)6.3
 acestream://b2b89914d5e80d7a55ef7dee6aad65cf47c1456d
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFmOTk1MTYtYzEzZC00YjNhLWEwOGYtZTZhNWQyZjRhMTVjXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",Los ultimos supervivientes(2022)5.3
@@ -51,14 +95,10 @@ acestream://6df6eb5926c065a0271e8c01c38b6ef3951b4f15
 acestream://f06a4374c1664f0fc4af219b04da0aee301a28ce
 #EXTINF:-1,tvg-logo="https://m.guiadelocio.com/var/guiadelocio.com/storage/images/cine/archivo-peliculas/noche-de-fuego/40623723-1-esl-ES/noche-de-fuego.jpg",Noche de fuego(2021)7.9lat
 acestream://a110806c4ee4858a6179fc5c12a9785217755194
-#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/la-ciudad-perdida-44788/la-ciudad-perdida-44788-c.jpg",la ciudad perdida(2022)7.9lat
-acestream://a0079b6d2991cb584fc95dfa9dd10d67b1328322
 #EXTINF:-1,tvg-logo="https://labutacaweb.files.wordpress.com/2021/10/20211025_170607.jpg",Errante Corazon(2021)5.8lat
 acestream://4dd7e7523dd7f6ba3970534b9c498350a047b3eb
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/ambulance-plan-de-huida-44607/ambulance-plan-de-huida-44607-c.jpg",Ambulancia(2022)7.0lat
 acestream://359cbb19523b534e4eeade429966b6b368aa3b74
-#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/sonic-la-pelicula-2-43230/sonic-la-pelicula-2-43230-c.jpg",Sonic the Hedgehog 2(2022)7.8lat
-acestream://187760a34a74e8b0acd9e7f0c48026bc59ddeeee
 #EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles/17000/17024/003_m.jpg",el hombre del norte(2022)7.8lat
 acestream://208c4d3f4c313cba0ef1d4c05650a0226e1b9d86
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/one-shot-mision-de-rescate-44743/one-shot-mision-de-rescate-44743-c.jpg",One Shot(Mision de rescate)(2021)6.8
