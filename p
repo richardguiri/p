@@ -140,7 +140,7 @@ acestream://d5a82ed471c05622088449780481d1ea87ba5748
 acestream://fb6c506f21ba4cfb1620084dfac182376b92b27c
 #EXTINF:-1,tvg-logo="https://domonfilm.files.wordpress.com/2022/01/black-friday-signature-entertainment-artwork.jpg?w=1200",BLACK FRYDAY(2021)4.9
 acestream://6c009ca8381f3094a42a51a99ee8e60bfc0b8638
-#EXTINF:-1,tvg-logo="https://www.laluzazul.es/productos/imagenes/img_6056_1ea2ba81681e4b61ec569a22cd5a069e_1.jpg",OSS 117 Desde Africa Con Amor(2021)5.7
+#EXTINF:-1,https://m.media-amazon.com/images/M/MV5BNTNkNTAzMzYtZGFiYy00MDIwLWE2ZDgtNTVlYjM1YjU1ZmYzXkEyXkFqcGdeQXVyNjE2NzE0MzQ@._V1_FMjpg_UX1000_.jpg,OSS 117 Desde Africa Con Amor(2021)5.7
 acestream://08e80734f546ec1612c7d04648a4d0e994d12997
 #EXTINF:-1,tvg-logo="https://seuladogeek.com.br/wp-content/uploads/2022/05/Incompatibles-2-Pelicula-800x1120.jpg",INCOMPATIBLES 2(2022)6.2
 acestream://d77a16824b6a310a0748620db98118594a35bddf
