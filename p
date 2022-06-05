@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ1NjQyNDMtNzFlZS00ZGIzLTliMWUtNGJkMGMzNTBjNDg0XkEyXkFqcGdeQXVyMTE1NDI5MDQx._V1_FMjpg_UX1000_.jpg",A.F Los Secretos De Dumbledore(2022)
+acestream://4124f599979b3dc7556ce05c462bc276233de2c4
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJlMTBhZmYtMDYxYi00ODJhLThhMGUtNzJiZGE1ZDBlOTg4XkEyXkFqcGdeQXVyMTY1NDQ5ODA@._V1_.jpg",Parallel Minds(2020)5.6
+acestream://25707aa05411dd42630806de49e24aa75ef94aaf
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y1NDFlODYtYzMwZi00ZmRhLTg5ZWYtYTkwZWUyMTMyOWMzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",Red Rocket(2021)7.1
+acestream://657d1e45294affd80e9ee09e0aaf498024419b13
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZThjOWI1NjctMDJkZi00ODJlLTg2ODQtZmExOTY5YTI4ZDkxXkEyXkFqcGdeQXVyNTIzODcxNDM@._V1_FMjpg_UX1000_.jpg",Dakota(2022)6.0
+acestream://d2ea8e29c4ab7c427449eba13465f9e2c13e8705
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMWYwNDZhYTEtM2NhMC00MDA3LTk5MzctODllNjk4MTc5YjNhXkEyXkFqcGdeQXVyODY2MzY0NDE@._V1_.jpg",Mira por mi(2021)6.0
+acestream://e4b9cfdd0189d4e3b0a774b0c2f5a658da1f0e70
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU4MzE3OWUtMThhMS00NjBmLWI0OWItNmEyMDc4YzI2NzQyXkEyXkFqcGdeQXVyMTUwOTU0Mw@@._V1_.jpg",El caso Villa Caprice(2022)5.7
+acestream://ec8ecedfc3a0f8503a2906b5bee40fc5a95f8981
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYjBmNmMyYTEtNjY2Ny00OTIyLWI5N2MtOWRjOGRlNWFkYzQ0XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",Stargirl en Hollywood(2022)8.2
+acestream://77a0a810bf7156a37a996af6f5f99ca07cd03849
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNjYjQ3NjgtZWM0NS00MTY5LTlkZWMtODZlNzhkNTU3MzZiXkEyXkFqcGdeQXVyMjM2OTI3Mzk@._V1_FMjpg_UX1000_.jpg",Interceptor(2022)5.7
+acestream://dd3f51621f5052a1fb02dfaa958b581e5f4aff43
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjBiZjc3YzItYWQ0Ni00YjZlLWFjYTAtMTBiNzM5ZmMxOGExXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",Fire Island(2022)5.0
+acestream://9d5760a3df1aa016ac4bded2389398ee566dfbe0
+#EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/w500/7xrM4gYONyvHMXaH6N0aLOSqwEC.jpg",Enamorate de mi(2022)5.0
+acestream://866ecdaffa5276c86250e055d2d6e26cf9b1de4d
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/05/08/45/4372215.jpg",El mediador(Blacklight)(2022)6.3 
+acestream://e44d9d0198c661213a119eb9fad00ef7b54b315e
+#EXTINF:-1,tvg-logo="https://archivodelcortometraje.es/wp-content/uploads/2022/01/7129bdbc970a58074fe9b884e2b8c559.jpg",el mirador de martín(2021)corto
+acestream://51aa8708e2a4cdbfd6717a7ab345240e07aef122
+#EXTINF:-1,tvg-logo="https://www.premiosgoya.com/wp-content/uploads/2021/11/system/uploads/feature_film/poster/1852/lapieldelvolcan-320x457.jpg",La piel del volcán(2020)7.6
+acestream://23a839064f1f5e2e66c93a709985d3c2a57795c4
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzAzYmM1ZDEtODJmNS00ZGFiLWJkMGEtNWIwMTc1MDEwY2ZiXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",El Cuaderno de Tomy(2020)7.6
+acestream://646459c37617bb86bb14e84434fec0b09f110352
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYjRiN2Y1MjctMWUxYS00YTA0LTljOTYtNDI3MzY4MjljODY4XkEyXkFqcGdeQXVyNjg0ODE2MzY@._V1_FMjpg_UX1000_.jpg",Ocupación Proyecto Lluvia(2021)6.4
+acestream://86c98d8d822d6af8c400fa5095e57e93558a9e4f
 #EXTINF:-1,tvg-logo="https://i.postimg.cc/8C1vm6Pz/unnamed-25.png",Herederas(2021)5.0
 acestream://dd830adcba19452a2412e3c06645646082f46948
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZiNjVkMTctN2JiOS00MmQ0LWJjMzUtY2EyZDM5YmFkZjQzXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",El brindis(2022)6.6
