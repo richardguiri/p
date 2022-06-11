@@ -86,9 +86,9 @@ acestream://4b3addb3a17c01c96e10745871b2ca8eaa80a079
 #EXTINF:-1,tvg-logo="https://images.justwatch.com/poster/241733675/s592/override-2021",R.I.A.(override)(2021)6.6
 acestream://ba6b509c5443669666117aecf3a33c725359bea4
 #EXTINF:-1,tvg-logo="https://martincid.com/wp-content/uploads/2022/02/MV5BZTIzN2M3NDMtZmMzNy00NTJjLWE5OGUtODdmMjMwMWNlODhkXkEyXkFqcGdeQXVyMTg2NDYxMzc@._V1_.jpg",Conspiracion en Hollywood(2022)5.5
-1388b1e1376e765cadac1ed253fb157dc040dd57
+acestream://1388b1e1376e765cadac1ed253fb157dc040dd57
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/en-el-silencio-45582/en-el-silencio-45582-c.jpg",En el silencio(2020)7.7
-b0cb9fd142dc6cdaa2c8704e498693a57ca7d224 
+acestream://b0cb9fd142dc6cdaa2c8704e498693a57ca7d224 
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/11/09/46/1726878.jpg",Emergency(2022)5.9
 acestream://e80e4f4e6f1eeed3b834ee207edb7eb1d6c83ce8
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDFlNjcwMmYtMGFkYi00YTQ4LTlhZmUtZmNlYzE5ZmY0Y2NmXkEyXkFqcGdeQXVyMTIyMjI4OTkx._V1_FMjpg_UX1000_.jpg",Que tengas un buen viaje(2022)6.8
