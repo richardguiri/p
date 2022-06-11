@@ -1,4 +1,42 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/bKozWiIzy5J3C3cTmBOgA6m8EEb.jpg",La Libreria Embrujada(2021)4.6
+acestream://56cda83957d31cca4799a175c21eb240e798041a
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/22/05/17/02/32/3609216.jpg",Los Arboles De La Paz(2021)6.3
+acestream://a9f865b18714c979391604ad171bd45651e7df72
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/11/11/51/3234476.jpg",Primavera en Beechwood(2021)5.1
+acestream://0e1c21f179b149165b89074ad8a24e72690ef8ba
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/06/11/56/4335776.jpg",Mision Panama(2022)6.0
+acestream://3973b2de64f6930be9b1a955ab121bac767ebdaa
+#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/22/04/19/02/46/0395720.jpg",Gran tiburon blanco(2022)6.8
+acestream://b01ce9334dc5a485f3893a920b23a8525d0efe2a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODcxMTQyZjMtYTM0OS00YjZiLWIxMDAtMzI1N2QwYjI5OGJlXkEyXkFqcGdeQXVyODY0NTMxNTE@._V1_FMjpg_UX1000_.jpg",La travesia(2022)6.7
+acestream://c1c86af6820c32c00e53697acda74b275dd2934f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRjODA4YzAtMTY4OC00YWJhLThiMDgtYmVhMDYwNGE3NmM4XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_FMjpg_UX1000_.jpg",El juego de las llaves(2022)5.8
+acestream://47a99b5c02398b32e640ed064b99e2f3a4cc88b6
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTFmOTVhODItN2Q3My00M2Q3LWFiYzktMjFhNDcwYzI4ZWFkXkEyXkFqcGdeQXVyMTE5NTUzMzQz._V1_FMjpg_UX1000_.jpg",El cuarto de Mona(2021)6.9
+acestream://9951346d66412dcfd4321d27ae5be2ccf13c7f82
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk4ZGIzYzgtODBlOS00Y2E5LTkwMWQtZjI3ODA0OTk4YmEyXkEyXkFqcGdeQXVyMjI3NDAyNg@@._V1_.jpg",Hive (Colmena)(2021)6.9
+acestream://b2f627c02f41083e7cc7e93ff6f8edac08eed147
+#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/zAA-FZhwkS0C4K841iCJ46VkLVhCA28hQ2K5_xwpI2HAGQxdVuOX3CvG1ul4sOxKWCwCvAi3xCncsYbs2pbia2kXRdoKq7J636h0Ys2dDJWdYX5siLI4zBm5G-pZMJRSsTBPMCOtTgs=w2400",Garra (Hustle)(2022)7.8
+acestream://5b80ecf3085cad354188826e845724c13cf2c68b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM4ZGM3MGItZjg3My00MDNlLWJhMDktZWFhNDNkNDJjOTA5XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_FMjpg_UX1000_.jpg",The Fanatic(2022)4.6
+acestream://aa3f2c21239d8d78f54f66169e461b87203d89a3
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMThmYmNlMGQtYWM1NC00ZDk1LWJiMTgtOWEyNTU4YTA0ZWIxXkEyXkFqcGdeQXVyMzIwNDY4NDI@._V1_FMjpg_UX1000_.jpg",Freaks Out(2021)7.3
+acestream://cf97a9d9c2fae06acc5ad42e71042328294c909f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzNiMjk2YTItODdkYy00NzQ3LWE2OTAtZWNlY2U2MzhlNjU5XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",Sin ti no puedo(2022)9.0
+acestream://b180789e5358a5992a9e4c423368bc5edcb3e20b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE4Yzg5MmUtZGMxZC00ZmZjLWFhNTYtMWM0MzAwYzVmZjZiXkEyXkFqcGdeQXVyMTAxNDMzOTk1._V1_FMjpg_UX1000_.jpg",El pacto(2021)5.7
+acestream://5d7de3564300a4fa28d08b323bce7e8ff00b9f4c
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMjFiN2VjYjMtMzRmNS00NTdkLWI0ZTItNWNjMmVjMmMyODhhXkEyXkFqcGdeQXVyMjQ0NzcxNjM@._V1_FMjpg_UX1000_.jpg",Clara sola(2021)5.1
+acestream://03a9afa1c3ce7b9ff7c60cf7c4a0d7972f7a8e52
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMjcyMDkxOGYtY2I1ZS00ZTQ4LWIzMzktZjg4YjM5MWU1YmU5XkEyXkFqcGdeQXVyODIzNzgwMDQ@._V1_.jpg",The Royal Game(2021)7.7
+acestream://d3c5d8c289b069644fbf4cc34e76508e9535e80f
+#EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/w500/t6xBOM1KmgXMJhTyWMjpR1NRx54.jpg",Comprometida hasta la muerte(2021)6.3
+acestream://daaaa719410c305d17368e6918efe2c50b564421
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI0NjJmYzItODg2YS00ZjMyLWI2YzQtNThhNTY2ZjhlNmJiXkEyXkFqcGdeQXVyNjAzNTg4MjE@._V1_FMjpg_UX1000_.jpg",La ley del embudo(2021)6.0
+acestream://6a23cd9adb6e57c923ff05d89b3f36fa30770635
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFlY2YxMTMtOThlZi00NDg1LWIyMDktYmZlNzkxM2QyMzI2XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg",La pasajera(2022)7.1
+acestream://fe21d46dfef82e970619aab4364946bf49cc0c2b
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ1NjQyNDMtNzFlZS00ZGIzLTliMWUtNGJkMGMzNTBjNDg0XkEyXkFqcGdeQXVyMTE1NDI5MDQx._V1_FMjpg_UX1000_.jpg",A.F Los Secretos De Dumbledore(2022)
 acestream://4124f599979b3dc7556ce05c462bc276233de2c4
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJlMTBhZmYtMDYxYi00ODJhLThhMGUtNzJiZGE1ZDBlOTg4XkEyXkFqcGdeQXVyMTY1NDQ5ODA@._V1_.jpg",Parallel Minds(2020)5.6
