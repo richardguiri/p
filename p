@@ -1,4 +1,36 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVkZTc4OTktNTAyOC00MzQxLThiZjMtM2M3MTlmYzFjY2FkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",Spiderhead(2022)5.9
+acestream://efe975356c912c8f5880bca35ccd7b9aabc00f90
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTIzMDk1YjgtMTNkMC00M2E4LWI5MmItMWFmMWM0ZDIxMmE5XkEyXkFqcGdeQXVyMzIwMjI3Nzg@._V1_.jpg",El abismo(The Ledge)(2022)6.2
+acestream://5083c7f990bb2fe3e4eb0896df5d70b16ffd4824
+#EXTINF:-1,tvg-logo="https://www.accioncine.es/media/k2/items/cache/94189da0d4317c5ef546855f78bc616e_XL.jpg",Super quien(2022)6.1
+acestream://98eff39b2f14a0f26b0b2091b2017e192e6e9395
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQwYTIzNTgtNDNjNS00MTM2LWJkZmQtNDEwMjJkYWJlOTBmXkEyXkFqcGdeQXVyOTgxNDIzMTY@._V1_FMjpg_UX1000_.jpg",El duque (The Duke)(2020)7.1
+acestream://09178c7730bd25a722cc4e475039c0d54c9fd995
+#EXTINF:-1,tvg-logo="https://cinemagavia.es/wp-content/uploads/2022/02/El-triunfo.jpg",El triunfo(2022)7.2
+acestream://0647f93a9b1a0af0845880bb9574c5a6c6aff647
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTRhMTNlYzEtNDc3Yi00NjE1LThlMzctZGNlYmE3NTcxYzZiXkEyXkFqcGdeQXVyODIxMzM0NTQ@._V1_FMjpg_UX1000_.jpg",El mundo es vuestro(2022)7.3
+acestream://9adc5577043cac1a0748cb7f1135a67dd9ee614c
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQwMjA2NzItNmJjYS00MDQ4LWJiZmYtNjgyZjFlNTY0MjQ0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",El padre de la novia(2022)4.4
+acestream://881665e4ea844031b8f1b5079a0f58039203c764
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQ3NTdkZWMtNjFjNy00NDhkLThiYzQtZjY2Njk1YTczNTg0XkEyXkFqcGdeQXVyNDU0NjMyNTQ@._V1_.jpg",Las ilusiones perdidas(2021)7.6
+acestream://de4960b6b3bff8f700aff1b032cd19256db0296d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGRmMzMyOTEtMzZlMy00MTRmLTg2ZDMtYTdmNWM2YzIyNGEyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",La ira de dios(2022)6.3
+acestream://944490ae898543081bdc1db4d81e260a88d445bc
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMjliOTVjNzMtM2IyOC00N2Y2LTg2YmEtN2U2Mjg1MjgxMGUyXkEyXkFqcGdeQXVyNjQ0NjQ0NzQ@._V1_FMjpg_UX1000_.jpg",El paseo 6(2021)7.0
+acestream://72f7718be15a18f1091811c73b57dfd6b44e9cfe
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTI1ZDQ5N2UtN2YxYy00YWE2LWFlOWUtNjViMmZmYWE1MDQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",Centauro(2022)6.9
+acestream://f162f0e1b7044a884af9c43bee43ee260448b63b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTI1ZDQ5N2UtN2YxYy00YWE2LWFlOWUtNjViMmZmYWE1MDQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",Desfile de corazones(2022)6.3
+acestream://4b820fa70c72c468496dd5d69902bf41c4a411d2
+#EXTINF:-1,tvg-logo="https://cineslanzarote.com/wp-content/uploads/2022/05/el_arma_del_engano_poster.jpg",El arma del engaño(2022)6.6
+acestream://f5a3b6cc9b85794daebd7607a243fe7a6732025f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYTdkMmNlMDItMWJlYy00NDVjLWJkY2MtMWE4MWE0NDdjODY0XkEyXkFqcGdeQXVyMTY1NjM1Nzc@._V1_FMjpg_UX1000_.jpg",Eraser Renacer(2022)7.0
+acestream://9affe4d23e876a96373b837775e929a2568e0374
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/I/61HLUxWbdKL._AC_SL1291_.jpg",Ambulance Plan de huida(2022)7.0
+acestream://24cc8b13daa23854d67c174a7613da6d95888963
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzFjYTFkZjItZDI1Zi00MzExLTg1ODctMWQ0ZTc2YTRhZmM4XkEyXkFqcGdeQXVyMjU1NjU1NDU@._V1_FMjpg_UX1000_.jpg",la presencia(Proximity)(2020)6.3
+acestream://888a1af1d21334c8a3b5a0c93881961cf4ea753b
 #EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/bKozWiIzy5J3C3cTmBOgA6m8EEb.jpg",La Libreria Embrujada(2021)4.6
 acestream://56cda83957d31cca4799a175c21eb240e798041a
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/22/05/17/02/32/3609216.jpg",Los Arboles De La Paz(2021)6.3
