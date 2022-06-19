@@ -418,7 +418,7 @@ acestream://7832d91f38145584f18c5dcaf535d6781ecbeee9
 acestream://1d3f31d183ad418b4daad1bd5df29b052bb28336
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlk7lwdGEmEizesW41lIGkgXYczT-FLQA0niOj60mjSKNkbQfbi8A58N7N9fLJzlrzwyY&usqp=CAU",Una amistad para siempre(2021)
 acestream://4006d44b83ff1dad6c51aeb7c3b0f5ee8c187129
-#EXTINF:-1,tvg-logo="https://nikemovies2.xyz/images/watchables/vDj0i6ifjOqoMR63.jpg?w=500&q=75&fm=pjpg&s=5fde8e1d6f14df3faebe1ca17741eb94",Fat Ass Zombies(2020)
+#EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/original/xxD6FHa1iOh3Tzgl9rglViPm9zm.jpg",Fat Ass Zombies(2020)
 acestream://fe3cc3b58a359335703bb1c577755d0bfc7ee903
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/19/17/25/4485085.jpg",La familia Bloom(2021)
 acestream://62e58ca18e0773dac95a6f9e0eb331a891d26655
@@ -470,7 +470,7 @@ acestream://b8ca7773c1e67d7179f3429771c3c4829bf82f15
 acestream://9a3a0bab2eec7282c88e90d3ce31550a7e205a5d
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/17/05/04/11/18/331962.jpg",Drones (2018)
 acestream://e76456ff11257b4ce320231b071802edd2673ad4
-#EXTINF:-1,tvg-logo="https://www.movistarplus.es/recorte/n/galeria/F3991193",Asalto al hospital (2021)
+#EXTINF:-1,tvg-logo="https://images.justwatch.com/poster/267502303/s718/asalto-al-hospital.%7Bformat%7D",Asalto al hospital (2021)
 acestream://28e673e540f7ecc6373768cf0388eb841fd62949
 #EXTINF:-1,tvg-logo="https://cps-static.rovicorp.com/2/Open/Vertical_Entertainment/Program/45334600/_derived_jpg_q90_310x470_m0/45334600_SmallEngineRepair_PosterArt_2x3_27_1632381787364_9.jpg",El taller (2021)
 acestream://57f8ed0281a053fe7e5d6fb9be4eace64a82d610
@@ -808,7 +808,7 @@ acestream://02741603ce2315f2ba709b591ff4825de864b631
 acestream://54515876e4c0bdf7a122b69a52bec3f928f233f9
 #EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/w500/71aChTm1wTY54qLAx4JH0kka3DS.jpg",Día de redención (2021)
 acestream://496d36eb4968e888a9b2752988cf83d43a60b743
-#EXTINF:-1,tvg-logo="https://repelisplus.uno/storage/13512/conversions/CU4RZeI31EYlVhwu6vaOhWaVu3I54YGgyCT9RSzw-thumb.jpg",Instinto peligroso (2021)
+#EXTINF:-1,tvg-logo="https://www.mubis.es/media/movies/7442/300554/instinto-peligroso-original.jpg",Instinto peligroso (2021)
 acestream://67de58ea585e0ceeadcaa6b07e7bee0e22e6e208
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/13/09/29/5930409.jpg",La noche del fin de los tiempos (2021)
 acestream://48bffaf198eab8ee995a0372b898f6574fac4942
@@ -1411,7 +1411,7 @@ acestream://fc10af029d980c57535ee5028351aff64a4cd674
 acestream://e7607734581fb559705bb4d0c7ca5fd6bf1f37a6
 #EXTINF:-1,tvg-logo="https://www.movistarplus.es/recorte/n/caratula4/F3925342",Ciudad de asesinos(2020)                                
 acestream://83631227a83b55c2b3d8a6c3b8fad7d1e9eb1bdc
-#EXTINF:-1,tvg-logo="https://sketchers.uk/storage/8946/conversions/FD1ZysWrLRkLUnZp5nDujUcLFRjpOHDGYG1CgrcV-thumb.jpg",La espía(2019)                                               
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMDlhZTFlNDAtNzQ4Zi00MzQ3LTkwMWUtNDQxMTk4YmU1Nzk5XkEyXkFqcGdeQXVyMTEyOTQ1OTk4._V1_.jpg",La espía(2019)                                               
 acestream://3267dae09e58d811bb07daf9b60027ab6137ef72
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/ven-a-jugar-44416/src/ven-a-jugar-44416-c.jpg",Ven a Jugar(2020)                                          
 acestream://59e5833c9980b413297d1c5c1ad5f9dd711abd62
@@ -1525,7 +1525,7 @@ acestream://aae387718638c1655f66e5d23e2177f1926937e1
 acestream://2b2b4dbd2c3e213a39294bc29fc9f2ede98142d9
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/seguridad-44065/src/seguridad-44065-c.jpg",Seguridad(2021)                                           
 acestream://1a7e1e6b21fd0783c7bf2a1c4ebb960f3472eaab
-#EXTINF:-1,tvg-logo="https://www.miradetodo.fun/movies/static/img/original/osut731qKshSV7wc4VQ7VkIlGVW.jpg",Una noche de venganza(2021)                     
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdhODM5ZGEtMGJhYy00NzQ1LWFlNmItYTI1MmIwMWYyODMwXkEyXkFqcGdeQXVyMTA5NTExNDAw._V1_FMjpg_UX1000_.jpg",Una noche de venganza(2021)                     
 acestream://06b8a8956be6b484716c85bbefcf1644e3d21618
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/the-turning-38823/src/the-turning-38823-c.jpg",Otra vuelta de tuerca(2020)                         
 acestream://95ac64c535f001dda35aed0406fe72538bf22bd1
@@ -1691,7 +1691,7 @@ acestream://f572835c34784ebb1e2179adb5ab2e1acea22ff0
 acestream://2ad55821d95054f62a5cb3749d219a2743dd778a
 #EXTINF:-1,tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F057%2F845%2Fthe-closet-1.jpg&nuevoancho=683&medio=abc",The closet(2020)                                              
 acestream://114efe3480c40745cbda2c1bb990d0db4c981d0a
-#EXTINF:-1,tvg-logo="https://ww3.cuevana.pro/resize/200/storage/6706/tE17WrYXjWWEiefULWKM0F1IZh4g6kEu0oK2zlwl.jpg",Benny Loves You(2019)                                   
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQ3MDZkZmEtMzRiYy00YTQ2LTk1YzktNGFjMDBjYzJmM2U2XkEyXkFqcGdeQXVyOTMzOTMzMTg@._V1_FMjpg_UX1000_.jpg",Benny Loves You(2019)                                   
 acestream://e8c677979308b47e2d13b36b1b122bb2f680a9e5
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/polizon-43651/src/polizon-43651-c.jpg",Polizón(2021)                                                    
 acestream://9d4cafd184a9727344f3ddb905e093afa2b07f17
