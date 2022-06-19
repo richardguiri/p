@@ -21,7 +21,7 @@ acestream://944490ae898543081bdc1db4d81e260a88d445bc
 acestream://72f7718be15a18f1091811c73b57dfd6b44e9cfe
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTI1ZDQ5N2UtN2YxYy00YWE2LWFlOWUtNjViMmZmYWE1MDQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",Centauro(2022)6.9
 acestream://f162f0e1b7044a884af9c43bee43ee260448b63b
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTI1ZDQ5N2UtN2YxYy00YWE2LWFlOWUtNjViMmZmYWE1MDQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",Desfile de corazones(2022)6.3
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzkwYzEyNGYtZDc4YS00M2Y1LTg0MjMtYmRhZDQ2MGZkZjNmXkEyXkFqcGdeQXVyMTEwMTY3NDI@._V1_UY1200_CR102,0,630,1200_AL_.jpg",Desfile de corazones(2022)6.3
 acestream://4b820fa70c72c468496dd5d69902bf41c4a411d2
 #EXTINF:-1,tvg-logo="https://cineslanzarote.com/wp-content/uploads/2022/05/el_arma_del_engano_poster.jpg",El arma del engaño(2022)6.6
 acestream://f5a3b6cc9b85794daebd7607a243fe7a6732025f
