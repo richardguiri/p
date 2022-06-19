@@ -193,7 +193,7 @@ acestream://d41d12d98842c9ea627bae16307655290805665d
 acestream://6df6eb5926c065a0271e8c01c38b6ef3951b4f15
 #EXTINF:-1,tvg-logo="https://images.justwatch.com/poster/268367659/s592/the-exorcism-of-god",El Exorcismo de dios(2021)6.8lat
 acestream://f06a4374c1664f0fc4af219b04da0aee301a28ce
-#EXTINF:-1,tvg-logo="https://m.guiadelocio.com/var/guiadelocio.com/storage/images/cine/archivo-peliculas/noche-de-fuego/40623723-1-esl-ES/noche-de-fuego.jpg",Noche de fuego(2021)7.9lat
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY0ZDBlNWQtMTIzNy00Mjc1LWE5NDctZWMwODBhY2FiODEzXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",Noche de fuego(2021)7.9lat
 acestream://a110806c4ee4858a6179fc5c12a9785217755194
 #EXTINF:-1,tvg-logo="https://labutacaweb.files.wordpress.com/2021/10/20211025_170607.jpg",Errante Corazon(2021)5.8lat
 acestream://4dd7e7523dd7f6ba3970534b9c498350a047b3eb
