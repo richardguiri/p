@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/31/10/39/4166008.jpg",Spiritwalker(2022)7.1
+acestream://d3f5fd143c0ffe7804c0a098e03b456218068443
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/05/11/09/54/3348179.jpg",Superacion(2022)7.1
+acestream://9f17a0f616fecbc6abd6c1dab89eca5b6a097c75
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/11/13/04/5236011.jpg",Ainbo La Guerrera Del Amazonas(2021)7.1
+acestream://82c6bc4365eb028de04396c778daf716decb7a44
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/06/02/08/55/2047039.jpg",El hombre de Toronto(2022)6.0
+acestream://f950fe623bbd9983dc0eb5e147cd84ae67dfec3c
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/b6gHyBzdjSw5Hc8dxfHHeSGNkhb.jpg",Mi Novio Falso(2022)6.7
+acestream://80aee207d98e0866557414a262217ff255d14c08
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/29/09/30/4195544.jpg",Nueve balas(2022)6.1
+acestream://1e80760805391097f9f5e13202e7efe01ed39fe0
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles/17000/17047/005.jpg",Un héroe(2021)7.3
+acestream://da2636ed572b27899fa27eb3adb1790dacaf87ef
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/10/w1280/335l9YsewctTq5voidjoxvEishJ.jpg",El amanecer de la guerra(2020)6.3
+acestream://8e3973b586e7aa000bafb69840746d18b6b93208
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/t2Bw6Yl4aiflTUXKW3CZ6xtjciy.jpg",Colisión(2022)6.2
+acestream://8786fad45f33f4e2cd3c1f7d0493095b98db749a
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/07/11/43/1839314.jpg",Doctor Strange en el multiverso de la locura(2022)7.6
 acestream://3c427277bc5df49dccc70028032b594845d12df3
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZWE4ZWMwOTYtZDkyYi00NWEwLTgyNWYtNWNkNjhlMjBmZTJmXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_FMjpg_UX1000_.jpg",Dual(2022)6.3
