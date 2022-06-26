@@ -18,7 +18,7 @@ acestream://8e3973b586e7aa000bafb69840746d18b6b93208
 #EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/t2Bw6Yl4aiflTUXKW3CZ6xtjciy.jpg",Colisión(2022)6.2
 acestream://8786fad45f33f4e2cd3c1f7d0493095b98db749a
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/07/11/43/1839314.jpg",Doctor Strange en el multiverso de la locura(2022)7.6
-acestream://3c427277bc5df49dccc70028032b594845d12df3
+acestream://7de58c347d2f5c1fb1fd5465102213a8a1f1e288
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZWE4ZWMwOTYtZDkyYi00NWEwLTgyNWYtNWNkNjhlMjBmZTJmXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_FMjpg_UX1000_.jpg",Dual(2022)6.3
 acestream://b4d1310631e9f9a4fcf2e4b5ca450e5688688499
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQzOWEyYjgtZGEzZi00ZTA0LTkzZTQtYzgyMDEwNWEyMzUzXkEyXkFqcGdeQXVyNDY0MDc4MjQ@._V1_FMjpg_UX1000_.jpg",A Olivia(To Olivia)(2022)6.6
