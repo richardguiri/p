@@ -2305,3 +2305,10 @@ acestream://639a9ccc59186c7376f639a50a6c3addbfce9791
 acestream://caa8538964ab192e85b9aaa83c2f9c7b9e44fa8a
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/the-room-40713/src/the-room-40713-c.jpg",La habitación (2019)                                               
 acestream://f5d6c2b0380654877ef71f2f3533bd07be7dac95
+#EXTINF:-1,group-title="kinki"
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/79/24/31/19494187.jpg",group-title="kinki",Perros callejeros(1977)6.2
+acestream://9ea5952f5cb78001b2ee35c099a28300e3daceb4
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWZkNTNiMjUtNTI3Ny00ZTc3LWJiZWYtYjg5MGUxZDliNzdhXkEyXkFqcGdeQXVyMTQ5ODY1ODc@._V1_.jpg",group-title="kinki",Perros callejeros 2(1979)5.4
+acestream://13950b174b1da8b72e92c7de811c2f0166539205
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDljNWE2YTMtZDNhNC00OGIyLTlmNGUtYTBlN2YzNGY5ZTM5XkEyXkFqcGdeQXVyMTQ5ODY1ODc@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Los ultimos golpes del torete(1980)4.9
+acestream://d88ece10fb2e0583d5cc9cfcd1e33db2456c75b1
