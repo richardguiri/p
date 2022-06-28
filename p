@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZmJlNTc2MGUtYzNjNi00NGEyLWE0YTQtZTQ4ZjUzYWRkYzgzXkEyXkFqcGdeQXVyMjMwNjQxNTA@._V1_.jpg",True Things(2021)6.0
+acestream://e2c44e68273ba3aa56815c33056cfc9125a1cecf
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/12/w1280/n4cLUoFXsI0ozgkCj4WL56IODt8.jpg",La caida de Alejandra(2022)
+acestream://0476bdeab0a49eb8d6a45ce5113a7b496911ac22
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk1Y2IyYzAtZGVkNC00Y2U3LWE0MWQtN2E3MTE1OTBjN2QyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",Breach (Anti-Life)(2020)3.0
+acestream://9f2cf5a0210d648cf1af58c845dd094e30491ff1
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVlYzJhMGQtZjMzNC00ZDc1LWFjZDMtZDk1ZTQxZTdhNDZjXkEyXkFqcGdeQXVyNzEyMTA5MTU@._V1_FMjpg_UX1000_.jpg",The Medium(2021)6.6
+acestream://690ec50ba76451e95c8b9c7ea52452017e9cb4c1
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/31/10/39/4166008.jpg",Spiritwalker(2022)7.1
 acestream://d3f5fd143c0ffe7804c0a098e03b456218068443
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/05/11/09/54/3348179.jpg",Superacion(2022)7.1
