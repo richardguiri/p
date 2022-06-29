@@ -2321,7 +2321,7 @@ acestream://13950b174b1da8b72e92c7de811c2f0166539205
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDljNWE2YTMtZDNhNC00OGIyLTlmNGUtYTBlN2YzNGY5ZTM5XkEyXkFqcGdeQXVyMTQ5ODY1ODc@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Los ultimos golpes del torete(1980)4.9
 acestream://d88ece10fb2e0583d5cc9cfcd1e33db2456c75b1
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk1MDVjZTAtZjFiZC00ZThhLTgzODUtZDJlMmJjMWQ2MDlmXkEyXkFqcGdeQXVyODcwNzMxNg@@._V1_.jpg",group-title="kinki",Yo El Vaquilla(1985)5.2
-bef103fca5f1b3fdc26af5f6ae361437490132d2
+acestream://bef103fca5f1b3fdc26af5f6ae361437490132d2
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg4ZTA3ZWUtNWJkMy00M2I1LTkxZjMtMDRmYzY2ZTc3MjExXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",El Pico(1983)6.8
 acestream://0d614bfbdd5ec62566b83b2497f7d4b4e20ab30c
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg4MzU2YzQtNGE0OS00NjI0LTk1YmEtODUwMDQ4YzE2ZmJjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",group-title="kinki",El Pico 2(1984)6.3
