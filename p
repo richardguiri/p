@@ -2320,3 +2320,36 @@ acestream://9ea5952f5cb78001b2ee35c099a28300e3daceb4
 acestream://13950b174b1da8b72e92c7de811c2f0166539205
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDljNWE2YTMtZDNhNC00OGIyLTlmNGUtYTBlN2YzNGY5ZTM5XkEyXkFqcGdeQXVyMTQ5ODY1ODc@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Los ultimos golpes del torete(1980)4.9
 acestream://d88ece10fb2e0583d5cc9cfcd1e33db2456c75b1
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk1MDVjZTAtZjFiZC00ZThhLTgzODUtZDJlMmJjMWQ2MDlmXkEyXkFqcGdeQXVyODcwNzMxNg@@._V1_.jpg",group-title="kinki",Yo El Vaquilla(1985)5.2
+bef103fca5f1b3fdc26af5f6ae361437490132d2
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg4ZTA3ZWUtNWJkMy00M2I1LTkxZjMtMDRmYzY2ZTc3MjExXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",El Pico(1983)6.8
+acestream://0d614bfbdd5ec62566b83b2497f7d4b4e20ab30c
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg4MzU2YzQtNGE0OS00NjI0LTk1YmEtODUwMDQ4YzE2ZmJjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",group-title="kinki",El Pico 2(1984)6.3
+acestream://3e33f625798c8dfccd1d712de337a258b636e1c9
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZlMTFlMmMtMzY2MC00MjRkLWFhYTctYTJhZWU5N2Y0ODJkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",Deprisa Deprisa(1981)6.9
+acestream://d934e59de6ef939bc0a3c829e7783a33ffaa971b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMDJmMDAzOTItNWM1Yi00MjJjLWI1YzQtZjVmMDk3NzVmZjA1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",La Estanquera De Vallecas(1987)6.2
+acestream://d7e96b2ecc0201d9ab84ae171833de6aaf91e057
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFkNTFmNmEtZGE0Yy00ZmY0LThmYWUtZWRhNzVkNjU0NjUyXkEyXkFqcGdeQXVyMTAxMDQ0ODk@._V1_.jpg",group-title="kinki",Navajeros(1980)6.5
+acestream://483bd46eb25265bdfdcc6360c25cb74092351d9f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDU1OTU2M2UtYjczZS00YThmLWJhMGMtMDY4ODQwMmI5MjY1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Matar al Nani(1988)5.8
+acestream://4ef34e37e35d021f5eb1e9131b8b43e9b46d15ab
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNlOTFiYjctNTJjYi00ZWIxLWIyYzQtMzA3Zjc1N2FlY2VlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",El Lute (camina o revienta)(1987)6.6
+acestream://b8bcff9ed628ca3872572af52d36b3bc57e982a7
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJiMDc3ZjUtZTkxNC00NTQxLWE2YTgtNmMwYTdlOTE0Mjk0XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",Colegas(1982)6.4
+acestream://65487f262ed0cb80bd1e106139b1a1eca6947fd9
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDJkZTliYjYtMjg3ZC00MDEwLWI3MmItMTM2NDdhN2UyNTU4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Makinavaja El Ultimo Choriso(1992)5.7
+acestream://689d9b57511286d9aae2ddfdd157c7ac73f7af08
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNGEyZmVlYzItZTUxYi00ZjIxLThiNzEtOWVhMzhhZTdjNDNlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Semos Peligrosos(1993)5.1
+acestream://17e012d49c0416fc7be9745aa5362c0b47289ac8 
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRmZDIxNWYtNTc2OC00ODAxLThhODYtMTMzYWYwM2NkNjMyXkEyXkFqcGdeQXVyMjc4MjcxNzI@._V1_.jpg",group-title="kinki",Sufre Mamon(1987)4.7
+acestream://d06d89024a8f69369342226d7901436c1b143690
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQxZDdiYmQtNmFjMi00MTZlLTlhYTMtZDk1YjM3ZjM1Mzc5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Barrio(1998)7.1
+acestream://df5cdb0feded7fc6a845a4611a12e53f1a69e8af
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQ1MmJhZWQtNDFiMi00OGRkLWE2OWYtMzMyNTFjYzYxZTRlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",Volando Voy(2006)6.3
+acestream://782b0cf6a71928cdd50b55b0cdfb2d0a6bd53926
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/28/11/29/4024483.jpg",group-title="kinki",Las leyes de la frontera(2021)
+acestream://1e3378ba0b148c6a8a08393c7f0e4e727e1e6c7f
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/28/10/16/1434930.jpg",group-title="kinki",Hombre muerto no sabe vivir (2021)
+acestream://17f465de0059be5b0d7f92f982414862df62fa46
+
