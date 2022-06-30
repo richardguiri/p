@@ -2349,7 +2349,7 @@ acestream://df5cdb0feded7fc6a845a4611a12e53f1a69e8af
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQ1MmJhZWQtNDFiMi00OGRkLWE2OWYtMzMyNTFjYzYxZTRlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",Volando Voy(2006)6.3
 acestream://782b0cf6a71928cdd50b55b0cdfb2d0a6bd53926
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM0MzcyZmQtZDI0OC00ZWQ1LWI3YmEtNmZhYjNlZmRiZTk4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Criando.Ratas(2016)6.4
-acestream://b95c27df37bc36ec61d10310629ed9be279966e8
+acestream://769ed174f8a6d793a0795d4f268b9c359f09bbf5
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/28/11/29/4024483.jpg",group-title="kinki",Las leyes de la frontera(2021)
 acestream://1e3378ba0b148c6a8a08393c7f0e4e727e1e6c7f
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/28/10/16/1434930.jpg",group-title="kinki",Hombre muerto no sabe vivir (2021)
