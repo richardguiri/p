@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYTA4YTlkNTktMGQwNC00N2QwLWFlMzYtMWRmZjM3ZmUzMzFjXkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_FMjpg_UX1000_.jpg",Beauty(2022)3.8
+acestream://5f1a974238545661bacec3eb2dec0226d756ceee
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODM1ZmQyMmEtZDc3My00MTBhLTk3YTktNmNhYTljNjVmNDQyXkEyXkFqcGdeQXVyNDk2MzUzOTM@._V1_.jpg",Portales(2021)5.1
+acestream://2ef38381d3cdf383331f19222c9e5d773207185a
+#EXTINF:-1,tvg-logo="https://media-cache.cinematerial.com/p/500x/rtgbq9kz/dinosaur-world-french-dvd-movie-cover.jpg?v=1653806744",Dinosaur World(2020)4.8 
+acestream://df8ea896cef1f520fe2a944f738dfacf2bc3752b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYjE1NTA2ZDEtYjYxOC00MDM3LWJkMDktMDU4OGZiZWVhMDg3XkEyXkFqcGdeQXVyMTMwMDA5ODU3._V1_FMjpg_UX1000_.jpg",La fortaleza(Fortress)(2021)3.4
+acestream://dab349578b6c725fef628ada618e6768987ceba4
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU1MjJlM2YtZTk5ZC00NzlmLThjZDMtYWQ3M2RiNjEwMGMxXkEyXkFqcGdeQXVyNDQxOTAyNA@@._V1_.jpg",La princesa(The Princess(2022)5.4
+acestream://0e8f44891faca900f839ca39b2ea9c52e222400e 
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTJiNmE3N2EtM2M3YS00YTE3LWJlNmQtODM4NzhhYzk1NTBlXkEyXkFqcGdeQXVyMjY2Nzg4Nzc@._V1_FMjpg_UX1000_.jpg",En La Mira(2022)5.5
+acestream://36f12fe3157cb2eeaf65d45cfeb21d20f3549565
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTdhNDM5YmEtOWFhZS00NjQwLTg3ZTQtMGI2OTNhZjQ2OGQxXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_UY1200_CR85,0,630,1200_AL_.jpg",Steve y la liga de los monstruos(2021)4.7
+acestream://e423661ace46568d176850fe3be41aaac685e110
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/06/17/12/21/4533646.jpg",Caña al extraterrestre(2022)5.7
+acestream://570daacc53defd1fd8e2dbe1489b8031d9613968
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNkYWY0MjQtY2FhYi00MDZjLTk0YWEtODc5NzBmZGM1ZTYyXkEyXkFqcGdeQXVyMTU0MDIxMQ@@._V1_FMjpg_UX1000_.jpg",Espiritu sagrado(2021)6.8
+acestream://bf0fe05f620f79de95a300bd199127d839ce261e
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/04/12/02/4749010.jpg",Nido de víboras(2022)7.2
+acestream://630a6c6af0becf990b6935133eed5f0e73d0d5c2
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTNjNzc0MzQtMWEzZi00YzRjLTkzMDctMGQxMGY0MWE1M2IyXkEyXkFqcGdeQXVyMTk2NDE3Mzc@._V1_FMjpg_UX1000_.jpg",Modo avion(2020)5.1
+acestream://f9fad4990eb24d99d3a11b49516506e4b783a53a
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZmJlNTc2MGUtYzNjNi00NGEyLWE0YTQtZTQ4ZjUzYWRkYzgzXkEyXkFqcGdeQXVyMjMwNjQxNTA@._V1_.jpg",True Things(2021)6.0
 acestream://e2c44e68273ba3aa56815c33056cfc9125a1cecf
 #EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/12/w1280/n4cLUoFXsI0ozgkCj4WL56IODt8.jpg",La caida de Alejandra(2022)
