@@ -34,7 +34,7 @@ acestream://d3f5fd143c0ffe7804c0a098e03b456218068443
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/05/11/09/54/3348179.jpg",Superacion(2022)7.1
 acestream://9f17a0f616fecbc6abd6c1dab89eca5b6a097c75
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/11/13/04/5236011.jpg",Ainbo La Guerrera Del Amazonas(2021)7.1
-acestream://7701503d94f4d29b95b16e76f0788e2bf7e7d6b4
+acestream://82c6bc4365eb028de04396c778daf716decb7a44
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/06/02/08/55/2047039.jpg",El hombre de Toronto(2022)6.0
 acestream://f950fe623bbd9983dc0eb5e147cd84ae67dfec3c
 #EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/b6gHyBzdjSw5Hc8dxfHHeSGNkhb.jpg",Mi Novio Falso(2022)6.7
@@ -50,11 +50,11 @@ acestream://8786fad45f33f4e2cd3c1f7d0493095b98db749a
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/07/11/43/1839314.jpg",Doctor Strange en el multiverso de la locura(2022)7.6
 acestream://46dbe87f61dbefb6c84f828ef97c3bf1714e5540
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZWE4ZWMwOTYtZDkyYi00NWEwLTgyNWYtNWNkNjhlMjBmZTJmXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_FMjpg_UX1000_.jpg",Dual(2022)6.3
-acestream://b4d1310631e9f9a4fcf2e4b5ca450e5688688499
+acestream://631e3f41f6d5b46542b63c1e227f502a83c503e6
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQzOWEyYjgtZGEzZi00ZTA0LTkzZTQtYzgyMDEwNWEyMzUzXkEyXkFqcGdeQXVyNDY0MDc4MjQ@._V1_FMjpg_UX1000_.jpg",A Olivia(To Olivia)(2022)6.6
 acestream://17ac4a7c848dcabd7c7d284bf2e54c4ca5dd51a7
 #EXTINF:-1,tvg-logo="https://www.encartelera.mx/imagenes/poster_cinepolis/38880-717400-20220302073449.jpg",Los Tipos Malos(2022)7.8
-acestream://b4cf065ec013b2cec2a307f9bc27bb4b8e8c664c
+acestream://dbff03705776627d3498fbfa0958e63d48d7c4ec
 #EXTINF:-1,tvg-logo="https://www.cineyteatro.es/wp-content/uploads/2022/06/BAILANDO-POR-LA-VIDA-2022.webp",Bailando Por La Vida(2022)7.2
 acestream://4a519abe6de2cb50ae24f739be3317b9b90d1683
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA0OGJkZjctYjlhOS00MjU5LWI1NGQtNmI1Y2M5MmVmZjE2XkEyXkFqcGdeQXVyOTM3MTA1NTk@._V1_.jpg",Doula(2022)4.4
@@ -62,7 +62,7 @@ acestream://7536191b77646f57f378ceb152a4e0a88e18f1a4
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/03/13/38/0074090.jpg",Amor y helado(2022)5.3 
 acestream://5eca354e0aff28a6c45f593f554a3c82bd266274
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNGM0MmJmYjktMmJlYS00YWEyLThhY2UtMGQzYjA5MDA5N2YwXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",Great Freedom(2021)7.3
-acestream://524fa570c28b49eeb108e30e9bc9c1ae96fac1c6
+acestream://ee938e73eb656b0203ec90b03e502d8eaeff5320
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDdjZjM1YWItNWRmOS00OTEzLWJmYjAtOGQzNTAyNmEwNDhjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",downtown abbey(2022)7.3
 acestream://6b2e3932e9655295967b69fbc6075f71793b6f50
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODM2MDQ5MjktYTM1ZS00Y2M4LTg0MDAtZjFjZDM1MDQxZGRmXkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_FMjpg_UX1000_.jpg",Centigrade(2022)6.1
