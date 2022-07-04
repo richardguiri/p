@@ -54,7 +54,7 @@ acestream://b4d1310631e9f9a4fcf2e4b5ca450e5688688499
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQzOWEyYjgtZGEzZi00ZTA0LTkzZTQtYzgyMDEwNWEyMzUzXkEyXkFqcGdeQXVyNDY0MDc4MjQ@._V1_FMjpg_UX1000_.jpg",A Olivia(To Olivia)(2022)6.6
 acestream://17ac4a7c848dcabd7c7d284bf2e54c4ca5dd51a7
 #EXTINF:-1,tvg-logo="https://www.encartelera.mx/imagenes/poster_cinepolis/38880-717400-20220302073449.jpg",Los Tipos Malos(2022)7.8
-acestream://f3be107a544ffd395b0c502196380385fc216643
+acestream://b4cf065ec013b2cec2a307f9bc27bb4b8e8c664c
 #EXTINF:-1,tvg-logo="https://www.cineyteatro.es/wp-content/uploads/2022/06/BAILANDO-POR-LA-VIDA-2022.webp",Bailando Por La Vida(2022)7.2
 acestream://4a519abe6de2cb50ae24f739be3317b9b90d1683
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA0OGJkZjctYjlhOS00MjU5LWI1NGQtNmI1Y2M5MmVmZjE2XkEyXkFqcGdeQXVyOTM3MTA1NTk@._V1_.jpg",Doula(2022)4.4
