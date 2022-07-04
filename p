@@ -58,7 +58,7 @@ acestream://dbff03705776627d3498fbfa0958e63d48d7c4ec
 #EXTINF:-1,tvg-logo="https://www.cineyteatro.es/wp-content/uploads/2022/06/BAILANDO-POR-LA-VIDA-2022.webp",Bailando Por La Vida(2022)7.2
 acestream://4a519abe6de2cb50ae24f739be3317b9b90d1683
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA0OGJkZjctYjlhOS00MjU5LWI1NGQtNmI1Y2M5MmVmZjE2XkEyXkFqcGdeQXVyOTM3MTA1NTk@._V1_.jpg",Doula(2022)4.4
-acestream://7536191b77646f57f378ceb152a4e0a88e18f1a4
+acestream://e45e803f0cc8ea579c303ac34b5072bcb80f6ac0
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/03/13/38/0074090.jpg",Amor y helado(2022)5.3 
 acestream://5eca354e0aff28a6c45f593f554a3c82bd266274
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNGM0MmJmYjktMmJlYS00YWEyLThhY2UtMGQzYjA5MDA5N2YwXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",Great Freedom(2021)7.3
