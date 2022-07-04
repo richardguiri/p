@@ -517,7 +517,7 @@ acestream://82cc67f4a6db27a9f9284addd0f6b35162fa1afe
 #EXTINF:-1,tvg-logo="https://i0.wp.com/moviesandmania.com/wp-content/uploads/2020/05/Creatures-movie-film-horror-British-2021-Tony-Jopia.jpg?resize=300%2C430&ssl=1",Creatures (2021)
 acestream://eeab07f4bc75fb3421a9b9545031d4808fdf6d0a
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/28/10/16/1434930.jpg",Hombre muerto no sabe vivir (2021)
-acestream://17f465de0059be5b0d7f92f982414862df62fa46
+acestream://ef341711b414c8014123872dc1bb6e787325a42d
 #EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/02/21/18/37/5656206.png",Hasta que nos volvamos a encontrar (2022)
 acestream://ef7695b27b5bda143391d6717880f63941586e22
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/01/05/09/54/1957944.jpg",Sex Appeal (2022)
@@ -2375,5 +2375,5 @@ acestream://769ed174f8a6d793a0795d4f268b9c359f09bbf5
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/28/11/29/4024483.jpg",group-title="kinki",Las leyes de la frontera(2021)
 acestream://1e3378ba0b148c6a8a08393c7f0e4e727e1e6c7f
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/28/10/16/1434930.jpg",group-title="kinki",Hombre muerto no sabe vivir (2021)
-acestream://17f465de0059be5b0d7f92f982414862df62fa46
+acestream://ef341711b414c8014123872dc1bb6e787325a42d
 
