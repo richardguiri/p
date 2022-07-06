@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJjNDkwOTctYmZlMS00OThjLWJiNTgtODlmZTgwNzQ2YTkzXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",Mas alla del infinito Buzz y el viaje hacia Lightyear(2022)6.2
+acestream://bba58628fb3484757a251163403f293aefebb39a
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/11/w1280/1YMp1T5CiLtDmbTJa5xcfsxceBB.jpg",Historia de un escandalo(2021)3.1
+acestream://5bfd34a95708ca33e2471f6ae9f9337e6be17230
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZWMwN2ZlOWUtYjIzMS00MWVjLWJkM2ItZTdlNGIzYjZmMWYxXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_UY1200_CR97,0,630,1200_AL_.jpg",Los demonios de la guerra(2022)4.2
+acestream://e1833ab3044ea04f7e49b54e84554a8137fa9786
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYTA4YTlkNTktMGQwNC00N2QwLWFlMzYtMWRmZjM3ZmUzMzFjXkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_FMjpg_UX1000_.jpg",Beauty(2022)3.8
 acestream://5f1a974238545661bacec3eb2dec0226d756ceee
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODM1ZmQyMmEtZDc3My00MTBhLTk3YTktNmNhYTljNjVmNDQyXkEyXkFqcGdeQXVyNDk2MzUzOTM@._V1_.jpg",Portales(2021)5.1
