@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJiYmViMDYtNGIyZC00NWQ5LTk4MzItYmUzNWU4OWM3NWQyXkEyXkFqcGdeQXVyNDYxNTI3ODY@._V1_FMjpg_UX1000_.jpg",La invasion(Risen)(2021)5.8
+acestream://e9b9b67838ad7d8822232cd2ac99e89af0d3b6a6
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMmIyZTQzNjUtMzAwNy00YmU4LTliYTEtMTY4MGM4NGU0MzQ0XkEyXkFqcGdeQXVyMTA5NjcyMTU1._V1_.jpg",La ultima pelicula (Last Film Show)(2021)5.0
+acestream://ea07cd0e9f1aa221270c866b1165761caf4a4185 
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDgyNTI3OWItOTBhOS00OTJmLWIzYmYtMTFhNjFlZjlmMDdlXkEyXkFqcGdeQXVyMjM1OTkyMzY@._V1_.jpg",Redada mortal(2022)5.2
+acestream://a8b16c5685be2d6c2aeab6b14bbc9163c800a035 
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/5PTdUn4zQRv1HHMwnNRKfibTi2E.jpg",Desaparecida sin rastro(2022)6.7
+acestream://d5687ee255f6167ab8ca5a2ae63f2d533583ab57
+#EXTINF:-1,tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqc1p_kGEzcvt4cY6KAME4R0eWbLYri6w30i3CiP4DeNfU1utkEm3MgxivafRDl5RTPf7tyVERD9d0ISnSz-RjU2NikrEnB8pe-sI50216e80JhWUEUVpMo-DeQ3mf8l-DWN1R9eYdnszp7z7KWyRZ5hfl7zWwkZm2-CQNtQTxZsL6jhA0_l0IzaHM/s2222/monstruo%20del%20mar%20netflix.jpg",El monstruo marino(2022)7.7
+acestream://aa1d136416134f98b9e78b87594f1b8e70957220
+#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/LpwuGZfKfNnUcT3RuPpr6AlZhbDaXj75Gc2gPLvu-D3vn3rMFB5jCinIS4U3cOxn3z3eJn7P1SGjz5erlctRg2yyeSzN3AuQX2S7F7zTo_xWOFRY9HERySwTI9tZcYCkTRAujMcSGHI=w2400",Mi identidad secreta(2021)6.2
+acestream://b2ffc5eb0247b70f90958f80859845a9effc76ab
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjYxZDMwZjUtNTFiYS00MDQ1LWJjMDktMjQxZTZiYzZkOTkzXkEyXkFqcGdeQXVyMTUyODQ1NjEw._V1_UY1200_CR285,0,630,1200_AL_.jpg",relaciones peligrosas(2022)6.1
+acestream://f5d26d6b0a592a1e33f613779fdd6e7e2caecc8d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU4NTE3YTQtMzczMC00YzRkLWI5MjItNGE3NjQ0NTY4MzExXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_FMjpg_UX1000_.jpg",El acontecimiento(2021)7.1
+acestream://94bc43e7c28c3e20619e81fbb4258c97dd965ca0
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2NjMDA0YjEtNmVlOC00MTc0LTlkMjEtYTE0NTc0OGI5MTBhXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_FMjpg_UX1000_.jpg",Los amores de Anais(2021)6.0
+acestream://6f177405b6094574fad696360691aa53778ae0b2
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/22/13/15/0129410.jpg",El hombre perfecto(2021)7.0
+acestream://e902ceff2491effb12139af54de6af00e42f0e53
+#EXTINF:-1,tvg-logo="https://img.pelispedia2.vip/2022/07/MV5BYjZiNGZlZWQtYjg1Ny00ZjE2LWE5ZjEtYzRjMmQzOWZhMmFmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_SX300.jpg",Hola adios y todo lo que paso(2022)
+acestream://c4893da557fe50ec29a9bb207e6fff0b7bf8d0dd
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWNjZjZhZDktYzM1YS00ODY3LTkwN2QtOTBiY2Y4ZTg1ZTY2XkEyXkFqcGdeQXVyMjQ1NTAzMTQ@._V1_.jpg",Las rojas(2021)5.0
+acestream://79105d5f7b900a731928d8a1ceabc837ac04484f
+#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/21/09/15/22/15/1139491.jpg",Voces secretas(2022)6.3
+acestream://a2189068ac86c38cdf89a40035fcae6d17cc02c5
+#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/Lp0Zv0tugdd72634drKF9lZZRxqIxWAB19g1TvcKzCSjZg2mbgyScVtwyAFVjeWmqbTJbVyCimef31ylvnt8TBY-aNTmh4WCVIZqH4892MlkK8Z6gEHwsDkSwgdS9Q_UZe8RxFatQEQ=w2400",volver a vivir(June Again)(2021)7.3
+acestream://8737ff7fa44611ae3c9bc6a8ef1f9b195e9cf942
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjllNDAyZDYtMDJiMi00ZjE1LWE3MTgtOTRjMDY4ODk1NTNmXkEyXkFqcGdeQXVyOTIxNTAyMzU@._V1_.jpg",¿Y como es el?(2020)7.0
+acestream://8b847691dffaff848754c9b174bd6841447a4d29
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJjNDkwOTctYmZlMS00OThjLWJiNTgtODlmZTgwNzQ2YTkzXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",Mas alla del infinito Buzz y el viaje hacia Lightyear(2022)6.2
 acestream://bba58628fb3484757a251163403f293aefebb39a
 #EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/11/w1280/1YMp1T5CiLtDmbTJa5xcfsxceBB.jpg",Historia de un escandalo(2021)3.1
