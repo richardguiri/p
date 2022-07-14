@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVlMmY2NTctODgwOC00NDMzLWEzMWYtM2RiYmIyNTNhMTI0XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_FMjpg_UX1000_.jpg",El hombre del norte(2022)7.2
+acestream://10802127339619b766db471b4bfaf8768869a4ac
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNGYwOTI1MTUtYmY0Mi00OTAxLTkwNDEtOTI5YTkyZTVhN2JiXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_FMjpg_UX1000_.jpg",El milagro del Padre Stu(2022)7.6
+acestream://a7a1cb62725b5aa2748793a0363333b4b1a9b75d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY3ZTdjMDktOTk1ZC00NjliLTk4MGQtN2I4N2Y4NWMyZWRmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",Bobs Burgers La Pelicula(2022)7.3
+acestream://f64826607bd1b03d32f9f0e209ab7f2a09a584bd
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/1/w1280/t6xBOM1KmgXMJhTyWMjpR1NRx54.jpg",Comprometida hasta la muerte(2021)6.3
+acestream://768809f364b7cb65d27f8a33ab3a88767f17922a
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/10/w1280/x3WwubhZDpC6s3VVRip4ylCr6dO.jpg",El mundo resplandeciente(2022)4.0
+acestream://eee992b37acfdd71f6d01b952a7e4d0a712decfb
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZhOWVlYjAtZWZiZC00NTdhLWJiMmUtNDQ5YzAxMzUxYmE2XkEyXkFqcGdeQXVyMjU3NzQwMzM@._V1_FMjpg_UX1000_.jpg",Por Jojo(2022)4.5
+acestream://a31448101ae1a43837361349c460b2677e5aea21
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY3YzA4ZjktOTNmMC00NzFjLWExNTAtOGE2ZjdhN2NmMGJmXkEyXkFqcGdeQXVyMTAyMDQ2ODcz._V1_.jpg",Malnazidos(2022)6.3
+acestream://1129aa637db0afbae3255fb86bb4b6aaef1bb5fa
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VjMmZhOWItYjkxOS00ZTQyLWE0MTYtMzRlN2JlMmRiNjA1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",Escape Room La pelicula(2022)5.3
+acestream://d208088f42e7217bd94cd217c9bee9acfad5c9ca
+#EXTINF:-1,tvg-logo="https://static.filmin.es/images/media/41081/1/poster_0_3.png",Pedirlo a gritos(2021)5.8
+acestream://93c3dbb87a207215460e06aafa2808f13d66478d
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/30/16/45/1128945.jpg",Gagarine(2022)6.6
+acestream://b3ce79669580d4ee849a437f70c084d746af3aa4
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWYyMTQxYzItMWVkNC00M2NmLThkNjAtOWI2ODgwN2UyZTdhXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",Para Chiara(2022)7.2
+acestream://06944cf73f85217276fdaa3eae76c28877fcad6b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBiOWI2OTktYjkxZS00OTBkLTk0MjMtNDA0NGZiMGFlZWYxXkEyXkFqcGdeQXVyMTAwMTIyNzQ2._V1_.jpg",Iberion(2019)5.0
+acestream://e46fa6daa3464339bedc4d659b2ce9ad5898bbac
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGVjOTFjMDAtOWYzNC00MzRiLWIyNTktYTMzYzljZjgwZGQwXkEyXkFqcGdeQXVyMTE5Njk2ODQ2._V1_.jpg",Noche americana(2022)6.2
+acestream://06e35da7739073e08e62f3e3d4a0ecc6b1b047c3
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJiYmViMDYtNGIyZC00NWQ5LTk4MzItYmUzNWU4OWM3NWQyXkEyXkFqcGdeQXVyNDYxNTI3ODY@._V1_FMjpg_UX1000_.jpg",La invasion(Risen)(2021)5.8
 acestream://e9b9b67838ad7d8822232cd2ac99e89af0d3b6a6
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMmIyZTQzNjUtMzAwNy00YmU4LTliYTEtMTY4MGM4NGU0MzQ0XkEyXkFqcGdeQXVyMTA5NjcyMTU1._V1_.jpg",La ultima pelicula (Last Film Show)(2021)5.0
