@@ -1,8 +1,26 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg4MjVhZDQtM2RiNC00NzZkLWI4MWMtMjkxNjMyZGM3ZmRmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",Zombies 3(2022)7.3
+acestream://b2b24e4e271702ce1e09c7096160e5e9352e47ca
+#EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/original/xKZ1x7btQDBxvt5JRBOxWjCHMXy.jpg",Shut in (Encerrada(2022)6.8
+acestream://edac416119ef8269bd123b9958a124a50836008c
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles/17100/17109/001_m.jpg",El hombre del sotano(2021)5.2
+acestream://50fef54c26292fc2e18c75715210117e945afd29
+Alerta global(Warning)(2021)5.2
+acestream://d777dd3daaa253a114ac166db77313c447461c94
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/14/21/19/0095687.jpg",Persuasion(2022)6.3
+acestream://8b11cbb558a13abe2bd44c6ed00ae353b23d50e8
+#EXTINF:-1,tvg-logo="https://cinehdplus.net/wp-content/uploads/2022/07/ltQ7izj8fogeGpw90JYcx03gCl4.jpg",Slalom(2022)6.7
+acestream://099903dd6aa26349e6d3ff78a7bee0025713e0b8
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/2KYg095m7kgKBXAHH8cjkzHTOuH.jpg",No me dejes ir(2022)6.3
+acestream://7371a370dfc1518206188e3682b0c9f2f0511050
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/09/16/52/4630529.jpg",Adios senor Haffmann(2022)6.9
+acestream://193b1b679d1f10c67556036a909ef0e773d07fef
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYjBhM2U3YTUtZDkxZS00MzRkLThhZTUtYjU1NmYxZjZiZjYzXkEyXkFqcGdeQXVyMTE4Nzk0Nzk1._V1_FMjpg_UX1000_.jpg",La ciudad de las fieras(2021)7.3
+acestream://4c5234df134ab921fb62754fed8548ea5b9811ef
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVlMmY2NTctODgwOC00NDMzLWEzMWYtM2RiYmIyNTNhMTI0XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_FMjpg_UX1000_.jpg",El hombre del norte(2022)7.2
 acestream://10802127339619b766db471b4bfaf8768869a4ac
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNGYwOTI1MTUtYmY0Mi00OTAxLTkwNDEtOTI5YTkyZTVhN2JiXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_FMjpg_UX1000_.jpg",El milagro del Padre Stu(2022)7.6
-acestream://a7a1cb62725b5aa2748793a0363333b4b1a9b75d
+acestream://4fcce34c13f5a4598eea53db1ce34f30e802068b
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY3ZTdjMDktOTk1ZC00NjliLTk4MGQtN2I4N2Y4NWMyZWRmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",Bobs Burgers La Pelicula(2022)7.3
 acestream://f64826607bd1b03d32f9f0e209ab7f2a09a584bd
 #EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/1/w1280/t6xBOM1KmgXMJhTyWMjpR1NRx54.jpg",Comprometida hasta la muerte(2021)6.3
