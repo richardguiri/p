@@ -5,7 +5,7 @@ acestream://b2b24e4e271702ce1e09c7096160e5e9352e47ca
 acestream://edac416119ef8269bd123b9958a124a50836008c
 #EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles/17100/17109/001_m.jpg",El hombre del sotano(2021)5.2
 acestream://50fef54c26292fc2e18c75715210117e945afd29
-Alerta global(Warning)(2021)5.2
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYmEzYjE0NGQtZTg1Ni00NDFmLWExZDYtNTZjNDdlMmE3NWFiXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_FMjpg_UX1000_.jpg",Alerta global(Warning)(2021)5.2
 acestream://d777dd3daaa253a114ac166db77313c447461c94
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/14/21/19/0095687.jpg",Persuasion(2022)6.3
 acestream://8b11cbb558a13abe2bd44c6ed00ae353b23d50e8
