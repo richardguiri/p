@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/6/w1280/vcR9fJGLJTLIETjKjUiSkJTZ8V1.jpg",Los secretos de la viuda negra(2022)4.8
+acestream://a9c78519d0653b0505d0ea82ce4f1039c3f50add
+#EXTINF:-1,tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2022/07/Poster-El-acusado-perfecto.png?fit=400%2C600&ssl=1",El acusado perfecto(2022)6.3
+acestream://3802275a4909c6b7cb23afa3ca9316f6444513f2
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZmNiYjA5YjEtMWY2MS00MzE4LTk4OGQtYmM3YWY0OTU5Y2VhXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg",Live is Life La gran aventura(2021)5.8
+acestream://9a2bf12da5c3430d9b0c2ccd09409ebac2578320
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDdjZjM1YWItNWRmOS00OTEzLWJmYjAtOGQzNTAyNmEwNDhjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",downtown abbey(2022)7.3
+acestream://0bb159139d47f92f71ac9d1414d36af05df584a2
+#EXTINF:-1,tvg-logo="https://images.justwatch.com/poster/249175173/s718/how-to-deter-a-robber.%7Bformat%7D",Como disuadir a un ladron(2022)5.4
+acestream://5116286ffdc0b5761fa040a26aed6c05900021b5
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/3/w1280/kjrkEnvxAt0PnXvaP8gZZI9t1gO.jpg",Demasiado mayor para cuentos de hadas(2022)8.0
+acestream://2b2c89ae223ab1044027cf87763a3064d69c084c
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM2NmNmNmMtMmYwZS00NDBmLThlMjQtMmU1NWEwODRlNTkyXkEyXkFqcGdeQXVyMTA5MTkwODY@._V1_.jpg",Mark Mary otra gente(2021)5.5
+acestream://a2663a6d40ee6c8dde0f395f5b940afd9727a77b
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/media/FXtlYBpUUAI4W7q?format=jpg&name=large",La ejecucion(2021)7.3
+acestream://a1a1ce187213c90ed14b1d558c5a4f533ebef7f6
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg4MjVhZDQtM2RiNC00NzZkLWI4MWMtMjkxNjMyZGM3ZmRmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",Zombies 3(2022)7.3
 acestream://b2b24e4e271702ce1e09c7096160e5e9352e47ca
 #EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/original/xKZ1x7btQDBxvt5JRBOxWjCHMXy.jpg",Shut in (Encerrada(2022)6.8
@@ -138,13 +154,11 @@ acestream://dbff03705776627d3498fbfa0958e63d48d7c4ec
 #EXTINF:-1,tvg-logo="https://www.cineyteatro.es/wp-content/uploads/2022/06/BAILANDO-POR-LA-VIDA-2022.webp",Bailando Por La Vida(2022)7.2
 acestream://4a519abe6de2cb50ae24f739be3317b9b90d1683
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA0OGJkZjctYjlhOS00MjU5LWI1NGQtNmI1Y2M5MmVmZjE2XkEyXkFqcGdeQXVyOTM3MTA1NTk@._V1_.jpg",Doula(2022)4.4
-acestream://e45e803f0cc8ea579c303ac34b5072bcb80f6ac0
+acestream://7536191b77646f57f378ceb152a4e0a88e18f1a4
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/03/13/38/0074090.jpg",Amor y helado(2022)5.3 
 acestream://5eca354e0aff28a6c45f593f554a3c82bd266274
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNGM0MmJmYjktMmJlYS00YWEyLThhY2UtMGQzYjA5MDA5N2YwXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",Great Freedom(2021)7.3
 acestream://ee938e73eb656b0203ec90b03e502d8eaeff5320
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDdjZjM1YWItNWRmOS00OTEzLWJmYjAtOGQzNTAyNmEwNDhjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",downtown abbey(2022)7.3
-acestream://6b2e3932e9655295967b69fbc6075f71793b6f50
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODM2MDQ5MjktYTM1ZS00Y2M4LTg0MDAtZjFjZDM1MDQxZGRmXkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_FMjpg_UX1000_.jpg",Centigrade(2022)6.1
 acestream://c00313ef93e3ba2e0aafff52073d437f71b99a90
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVkZTc4OTktNTAyOC00MzQxLThiZjMtM2M3MTlmYzFjY2FkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",Spiderhead(2022)5.9
